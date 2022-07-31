@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "1c3608d1f2ff5c7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d44f29ecb14d22",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Knowledge Management/Note-taking.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "512eba68863b5e34",
+    "type": "split",
+    "children": [
+      {
+        "id": "816c299243d70792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f11e748ac2dd2507",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "291a7490d86645e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7742db8bf25a1fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66b3eba9d1e0a907",
+    "type": "split",
+    "children": [
+      {
+        "id": "6125e68fc337d649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d32a7babf5f9231",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge Management/Note-taking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2a2ccef546aa63f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge Management/Note-taking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "622e66c751c6d36a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "832ab1945747bdd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge Management/Note-taking.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "70d44f29ecb14d22",
+  "lastOpenFiles": [
+    "Knowledge Management/Zettelkasten Smart Notes.md",
+    "Knowledge Management/Zettelkasten.md",
+    "Knowledge Management/Note-taking.md",
+    "Knowledge Management/Knowledge Management System.md",
+    "Multimedia/Fallout.md",
+    "UX/10 Usability Heuristics.md",
+    "UX/Usability.md",
+    "Post-Apocalyse.md",
+    "Aesthetics/Post-Apocalysm.md",
+    "Aesthetics/Retro-Futurism.md"
+  ]
+}

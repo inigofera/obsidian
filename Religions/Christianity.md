@@ -1,0 +1,2 @@
+Christianity is a [[Religion]].
+
