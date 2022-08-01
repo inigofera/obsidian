@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Knowledge Management/Note-taking.md",
+            "file": "UX/10 Usability Heuristics.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Management/Note-taking.md",
+                "file": "UX/10 Usability Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Management/Note-taking.md",
+                "file": "UX/10 Usability Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Management/Note-taking.md"
+                "file": "UX/10 Usability Heuristics.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "0fc240840f4576b1",
   "lastOpenFiles": [
+    "Knowledge Management/Note-taking.md",
+    "Productivity/Temptation Bundling.md",
+    "Productivity/Habit Stacking.md",
+    "Multimedia/Atomic Habits.md",
     "Knowledge Management/Knowledge Management System.md",
     "Knowledge Management/Zettelkasten Smart Notes.md",
     "Multimedia/Dark (TV Show).md",
-    "Knowledge Management/Note-taking.md",
     "Knowledge Management/Zettelkasten.md",
     "Multimedia/Fallout.md",
-    "UX/10 Usability Heuristics.md",
-    "UX/Usability.md",
-    "Post-Apocalyse.md",
-    "Aesthetics/Post-Apocalysm.md"
+    "UX/10 Usability Heuristics.md"
   ]
 }
