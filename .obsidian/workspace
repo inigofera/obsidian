@@ -117,20 +117,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "active": "e5f4cd4933bac48b",
   "lastOpenFiles": [
+    "UX/Usability.md",
+    "UX/Design Thinking.md",
     "UX/Empathy Mapping.md",
     "UX/Empathize.md",
-    "UX/Design Thinking.md",
     "Untitled.md",
     "Aesthetics/Post-Apocalysm.md",
     "UX/10 Usability Heuristics.md",
     "Religions/Cultism.md",
     "Knowledge Management/Zettelkasten Smart Notes.md",
-    "Productivity/Habit Stacking.md",
-    "Productivity/Temptation Bundling.md"
+    "Productivity/Habit Stacking.md"
   ]
 }
