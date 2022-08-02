@@ -7,12 +7,8 @@
         "id": "e5f4cd4933bac48b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "UX/Design Thinking.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX/Design Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX/Design Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UX/Design Thinking.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,15 +121,15 @@
   },
   "active": "e5f4cd4933bac48b",
   "lastOpenFiles": [
+    "UX/Empathy Mapping.md",
+    "UX/Empathize.md",
+    "UX/Design Thinking.md",
     "Untitled.md",
     "Aesthetics/Post-Apocalysm.md",
     "UX/10 Usability Heuristics.md",
     "Religions/Cultism.md",
     "Knowledge Management/Zettelkasten Smart Notes.md",
     "Productivity/Habit Stacking.md",
-    "Productivity/Temptation Bundling.md",
-    "UX/Jakob's Law.md",
-    "Knowledge Management/Note-taking.md",
-    "Multimedia/Atomic Habits.md"
+    "Productivity/Temptation Bundling.md"
   ]
 }

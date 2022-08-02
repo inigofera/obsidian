@@ -5,4 +5,7 @@ Design framework based on the philosophy that a user-centered approach to proble
 - [[Empathize]]
 - [[Define]]
 - [[Ideate]]
-- 
+- [[Prototype]]
+- [[Test]]
+- [[Implement]]
+
