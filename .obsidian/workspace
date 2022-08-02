@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0d94cd12e99cb462",
+        "id": "e5f4cd4933bac48b",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -113,25 +113,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
-  "active": "0d94cd12e99cb462",
+  "active": "f11e748ac2dd2507",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Aesthetics/Post-Apocalysm.md",
     "UX/10 Usability Heuristics.md",
     "Religions/Cultism.md",
     "Knowledge Management/Zettelkasten Smart Notes.md",
     "Productivity/Habit Stacking.md",
     "Productivity/Temptation Bundling.md",
-    "Aesthetics/Post-Apocalysm.md",
     "UX/Jakob's Law.md",
     "Knowledge Management/Note-taking.md",
-    "Multimedia/Atomic Habits.md",
-    "Knowledge Management/Knowledge Management System.md"
+    "Multimedia/Atomic Habits.md"
   ]
 }
