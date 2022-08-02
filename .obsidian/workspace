@@ -7,8 +7,12 @@
         "id": "e5f4cd4933bac48b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "UX/Design Thinking.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UX/Design Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UX/Design Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UX/Design Thinking.md"
+              }
             }
           }
         ]
@@ -119,7 +127,7 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "f11e748ac2dd2507",
+  "active": "e5f4cd4933bac48b",
   "lastOpenFiles": [
     "Untitled.md",
     "Aesthetics/Post-Apocalysm.md",
