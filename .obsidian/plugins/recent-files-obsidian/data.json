@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Transportation",
+      "path": "Transportation.md"
+    },
+    {
+      "basename": "Urban Planning",
+      "path": "Urban Planning.md"
+    },
+    {
+      "basename": "Cities Skylines",
+      "path": "Multimedia/Cities Skylines.md"
+    },
+    {
+      "basename": "P.A.R.A. Framework",
+      "path": "Productivity/P.A.R.A. Framework.md"
+    },
+    {
+      "basename": "Zettelkasten Smart Notes",
+      "path": "Knowledge Management/Zettelkasten Smart Notes.md"
+    },
+    {
+      "basename": "Second Brain",
+      "path": "Productivity/Second Brain.md"
+    },
+    {
       "basename": "Post-Apocalysm",
       "path": "Aesthetics/Post-Apocalysm.md"
+    },
+    {
+      "basename": "Atomic Habits",
+      "path": "Multimedia/Atomic Habits.md"
     },
     {
       "basename": "Jakob's Law",
@@ -15,14 +43,6 @@
     {
       "basename": "Zettelkasten",
       "path": "Knowledge Management/Zettelkasten.md"
-    },
-    {
-      "basename": "Zettelkasten Smart Notes",
-      "path": "Knowledge Management/Zettelkasten Smart Notes.md"
-    },
-    {
-      "basename": "Second Brain",
-      "path": "Productivity/Second Brain.md"
     }
   ],
   "omittedPaths": [],
