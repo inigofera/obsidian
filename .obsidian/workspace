@@ -4,15 +4,38 @@
     "type": "split",
     "children": [
       {
+        "id": "3ff68aa74aeae807",
+        "type": "leaf",
+        "dimension": 13.717948717948719,
+        "pinned": true,
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
         "id": "e5f4cd4933bac48b",
         "type": "leaf",
+        "dimension": 53.97435897435897,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Productivity/Habit Stacking.md",
+            "file": "Aesthetics/Post-Apocalysm.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "05c829323202a998",
+        "type": "leaf",
+        "dimension": 32.30769230769231,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -77,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/Habit Stacking.md",
+                "file": "Aesthetics/Post-Apocalysm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/Habit Stacking.md",
+                "file": "Aesthetics/Post-Apocalysm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/Habit Stacking.md"
+                "file": "Aesthetics/Post-Apocalysm.md"
               }
             }
           }
@@ -125,19 +148,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "active": "e5f4cd4933bac48b",
   "lastOpenFiles": [
-    "Productivity/Temptation Bundling.md",
-    "UX/10 Usability Heuristics.md",
-    "UX/Usability.md",
     "UX/Jakob's Law.md",
-    "UX/Design Thinking.md",
-    "UX/Empathy Mapping.md",
-    "UX/Empathize.md",
-    "Untitled.md",
+    "Productivity/Second Brain.md",
+    "UX/10 Usability Heuristics.md",
     "Aesthetics/Post-Apocalysm.md",
-    "Religions/Cultism.md"
+    "Knowledge Management/Zettelkasten.md",
+    "Knowledge Management/Zettelkasten Smart Notes.md",
+    "UX/Empathize.md",
+    "Productivity/Habit Stacking.md",
+    "Productivity/Temptation Bundling.md",
+    "UX/Usability.md"
   ]
 }
