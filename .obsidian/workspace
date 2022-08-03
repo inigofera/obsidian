@@ -7,8 +7,12 @@
         "id": "e5f4cd4933bac48b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Productivity/Habit Stacking.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Productivity/Habit Stacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Productivity/Habit Stacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Productivity/Habit Stacking.md"
+              }
             }
           }
         ]
@@ -121,15 +129,15 @@
   },
   "active": "e5f4cd4933bac48b",
   "lastOpenFiles": [
+    "Productivity/Temptation Bundling.md",
+    "UX/10 Usability Heuristics.md",
     "UX/Usability.md",
+    "UX/Jakob's Law.md",
     "UX/Design Thinking.md",
     "UX/Empathy Mapping.md",
     "UX/Empathize.md",
     "Untitled.md",
     "Aesthetics/Post-Apocalysm.md",
-    "UX/10 Usability Heuristics.md",
-    "Religions/Cultism.md",
-    "Knowledge Management/Zettelkasten Smart Notes.md",
-    "Productivity/Habit Stacking.md"
+    "Religions/Cultism.md"
   ]
 }
