@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 27.662517289073307,
+        "dimension": 10.500165617754224,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -15,13 +15,13 @@
         }
       },
       {
-        "id": "96757db6d46e515e",
+        "id": "665c0288e3a64982",
         "type": "leaf",
-        "dimension": 44.12171507607192,
+        "dimension": 42.1331566743955,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Information oveload for drivers.md",
+            "file": "Multimedia/Atomic Habits.md",
             "mode": "source",
             "source": false
           }
@@ -30,7 +30,7 @@
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 28.21576763485477,
+        "dimension": 47.366677707850286,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -100,9 +100,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information oveload for drivers.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -117,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information oveload for drivers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,29 +137,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Information oveload for drivers.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
-  "active": "3ff68aa74aeae807",
+  "active": "f11e748ac2dd2507",
   "lastOpenFiles": [
-    "Transportation.md",
-    "Urban Planning.md",
-    "Multimedia/Cities Skylines.md",
-    "Productivity/P.A.R.A. Framework.md",
-    "Knowledge Management/Zettelkasten Smart Notes.md",
-    "Productivity/Second Brain.md",
-    "Aesthetics/Post-Apocalysm.md",
     "Multimedia/Atomic Habits.md",
-    "UX/Jakob's Law.md",
-    "UX/10 Usability Heuristics.md"
+    "Multimedia/Fallout.md",
+    "Knowledge Management/Note-taking.md",
+    "Knowledge Management/Zettelkasten.md",
+    "Knowledge Management/P.A.R.A. Framework.md",
+    "Knowledge Management/Second Brain.md",
+    "Productivity/Productivity.md",
+    "Urban Planning & Mobility/Green Mobility.md",
+    "Urban Planning & Mobility/Transportation.md",
+    "Urban Planning & Mobility/Cognitive overload.md"
   ]
 }

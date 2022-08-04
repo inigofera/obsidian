@@ -4,5 +4,6 @@
   "spellcheckDictionary": [
     "Strayer",
     "helis"
-  ]
+  ],
+  "spellcheck": false
 }

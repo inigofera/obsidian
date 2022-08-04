@@ -1,40 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Information oveload for drivers",
-      "path": "Information oveload for drivers.md"
+      "basename": "Atomic Habits",
+      "path": "Multimedia/Atomic Habits.md"
+    },
+    {
+      "basename": "Fallout",
+      "path": "Multimedia/Fallout.md"
+    },
+    {
+      "basename": "Note-taking",
+      "path": "Knowledge Management/Note-taking.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "Knowledge Management/Zettelkasten.md"
+    },
+    {
+      "basename": "P.A.R.A. Framework",
+      "path": "Knowledge Management/P.A.R.A. Framework.md"
+    },
+    {
+      "basename": "Second Brain",
+      "path": "Knowledge Management/Second Brain.md"
+    },
+    {
+      "basename": "Productivity",
+      "path": "Productivity/Productivity.md"
+    },
+    {
+      "basename": "Green Mobility",
+      "path": "Urban Planning & Mobility/Green Mobility.md"
     },
     {
       "basename": "Transportation",
-      "path": "Transportation.md"
+      "path": "Urban Planning & Mobility/Transportation.md"
+    },
+    {
+      "basename": "Cognitive overload",
+      "path": "Urban Planning & Mobility/Cognitive overload.md"
+    },
+    {
+      "basename": "Information oveload for drivers",
+      "path": "Urban Planning & Mobility/Information oveload for drivers.md"
+    },
+    {
+      "basename": "Public Transportation",
+      "path": "Urban Planning & Mobility/Public Transportation.md"
     },
     {
       "basename": "Urban Planning",
-      "path": "Urban Planning.md"
+      "path": "Urban Planning & Mobility/Urban Planning.md"
     },
     {
       "basename": "Cities Skylines",
       "path": "Multimedia/Cities Skylines.md"
     },
     {
-      "basename": "P.A.R.A. Framework",
-      "path": "Productivity/P.A.R.A. Framework.md"
-    },
-    {
       "basename": "Zettelkasten Smart Notes",
       "path": "Knowledge Management/Zettelkasten Smart Notes.md"
     },
     {
-      "basename": "Second Brain",
-      "path": "Productivity/Second Brain.md"
-    },
-    {
       "basename": "Post-Apocalysm",
       "path": "Aesthetics/Post-Apocalysm.md"
-    },
-    {
-      "basename": "Atomic Habits",
-      "path": "Multimedia/Atomic Habits.md"
     },
     {
       "basename": "Jakob's Law",
@@ -43,10 +71,6 @@
     {
       "basename": "10 Usability Heuristics",
       "path": "UX/10 Usability Heuristics.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "Knowledge Management/Zettelkasten.md"
     }
   ],
   "omittedPaths": [],
