@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 28.368794326241137,
+        "dimension": 27.662517289073307,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -17,7 +17,7 @@
       {
         "id": "96757db6d46e515e",
         "type": "leaf",
-        "dimension": 43.262411347517734,
+        "dimension": 44.12171507607192,
         "state": {
           "type": "markdown",
           "state": {
@@ -30,7 +30,7 @@
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 28.368794326241137,
+        "dimension": 28.21576763485477,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 192.5
   },
   "right": {
     "id": "66b3eba9d1e0a907",
@@ -151,7 +151,7 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "96757db6d46e515e",
+  "active": "3ff68aa74aeae807",
   "lastOpenFiles": [
     "Transportation.md",
     "Urban Planning.md",
