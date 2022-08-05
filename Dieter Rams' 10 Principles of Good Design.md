@@ -9,4 +9,5 @@
 
 Good design is...
 1. **Innovative**: The possibilities for innovation are never exhausted, even though it might appear so at times. However, technological progress opens new doors every day. Innovative design must go hand in hand with innovative technology.
-2. **Useful:** Products are bought to be used. 
+2. **Useful:** Products are bought to be used. Anything that detracts from usefulness must be discarded.
+3. **Aesthetic**: While usefulness is integral, a product must also satisfy psychological and aesthetic requirements. Aesthetics are also important for usefulness because products we use every day 
