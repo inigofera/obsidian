@@ -21,10 +21,10 @@ A well-designed product is...
 
 
 ### Applications for web design
--   Making them easy to interact with to the point that the user delights in it. This is user enjoyment through user enablement.
--   Our design should always show the user what its function is so that there’s never a gap between what the user perceives the design’s capabilities are and what they truly are.
--   Designing with a view to guide our users towards the needed interactions. We must make buttons look like clickable buttons and think about positive and negative interactions. Think of traffic lights: green means go (positive); red means stop (negative).
--   Not building unneeded elements into our designs. Remember the 80/20 rule and think carefully before adding every element to avoid the chance of clutter.
+- Making websites easy to interact with to the point that the user delights in it. "This is user enjoyment through user enablement".
+- The design should always show the user what its function is so that there’s never a gap between what the user perceives the design’s capabilities are and what they truly are (Kind of like Visibility of System Status in the [[10 Usability Heuristics]]).
+- Think about the journey the user goes through in the app. There are positive and negative interactions. Think of traffic lights: green means go (positive); red means stop (negative).
+- Not building unneeded elements into the web designs. Remember the [[80/20 Rule]] and think carefully before adding every element to avoid clutter.
 
 
 Source: [https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design]
