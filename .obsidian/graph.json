@@ -22,14 +22,35 @@
       }
     },
     {
-      "query": "",
+      "query": "path:UX",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 5547000
+      }
+    },
+    {
+      "query": "path:Multimedia",
+      "color": {
+        "a": 1,
+        "rgb": 15761368
+      }
+    },
+    {
+      "query": "path:\"Knowledge Management\"",
+      "color": {
+        "a": 1,
+        "rgb": 13807697
+      }
+    },
+    {
+      "query": "path:Aesthetics",
+      "color": {
+        "a": 1,
+        "rgb": 2077259
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +60,6 @@
   "repelStrength": 10.0854700854701,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4530224141699814,
+  "scale": 0.6351296769755564,
   "close": false
 }
