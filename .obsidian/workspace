@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 18.825665859564165,
+        "dimension": 18.87477313974592,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -17,11 +17,11 @@
       {
         "id": "97b6fa7116f27930",
         "type": "leaf",
-        "dimension": 48.60774818401937,
+        "dimension": 35.81367211131277,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dieter Rams' 10 Principles of Good Design.md",
+            "file": "UX & Design/Dieter Rams' 10 Principles of Good Design.md",
             "mode": "source",
             "source": false
           }
@@ -30,7 +30,7 @@
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 32.56658595641647,
+        "dimension": 45.31155474894132,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dieter Rams' 10 Principles of Good Design.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dieter Rams' 10 Principles of Good Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dieter Rams' 10 Principles of Good Design.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,10 +147,10 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "97b6fa7116f27930",
+  "active": "f11e748ac2dd2507",
   "lastOpenFiles": [
+    "UX & Design/Dieter Rams' 10 Principles of Good Design.md",
     "Urban Planning & Mobility/Information oveload for drivers.md",
-    "Dieter Rams' 10 Principles of Good Design.md",
     "Multimedia/Atomic Habits.md",
     "Multimedia/Fallout.md",
     "Knowledge Management/Note-taking.md",

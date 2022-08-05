@@ -3,8 +3,8 @@
 - Creator of iconic consumer products for the company Braun.
 - Motto: "Less, but better"
 
-### 10 Principles for Good Design
 
+### 10 Principles for Good Design
 - A bit more suited for industrial design than for digital design.
 
 A well-designed product is...
@@ -15,4 +15,16 @@ A well-designed product is...
 5. **Unobtrusive**: Products that fulfill a purpose are like tools. Their design should be neutral and restrained, and leave room for user's self-expression.
 6. **Honest**: Good design doesn't lie. It doesn't make the product more innovative, powerful or valuable than it actually is. It doesn't make promises that it can't deliver.
 7.  **Long-lasting**: Good design avoids being fashionable and therefore never gets antiquated. Well-designed products last many years, even in today's fast, throwaway society.
-8. **Thorough**: Nothing is arbitrary or left to chance. Care and accuracy in the design process are a sign of respect 
+8. **Thorough**: Nothing is arbitrary or left to chance. Care and accuracy in the design process are a sign of respect for the user.
+9. **Environmentally-friendly**: Good design contributes to the preservation of the environment. It conserves resources and minimizes pollution throughout the life cycle of the product.
+10. **Subtle**: "Less, but better". Focuses on the essential aspects, doesn't bother with the non-essentials. Purity and simplicity.
+
+
+### Applications for web design
+-   Making them easy to interact with to the point that the user delights in it. This is user enjoyment through user enablement.
+-   Our design should always show the user what its function is so that there’s never a gap between what the user perceives the design’s capabilities are and what they truly are.
+-   Designing with a view to guide our users towards the needed interactions. We must make buttons look like clickable buttons and think about positive and negative interactions. Think of traffic lights: green means go (positive); red means stop (negative).
+-   Not building unneeded elements into our designs. Remember the 80/20 rule and think carefully before adding every element to avoid the chance of clutter.
+
+
+Source: [https://www.interaction-design.org/literature/article/dieter-rams-10-timeless-commandments-for-good-design]
