@@ -19,3 +19,5 @@ Data-driven design is important because it helps us:
 	- An overarching strategy is important. Even if a metric goes down for a smaller section, the overarching performance could be going up.
 4.  **Leverage data** to drive innovation
 	- Designers can—and should—be able to propose drastic, daring changes. If designers want to propose innovative designs, they should back up their design hypotheses with data.
+
+#UXandDesign

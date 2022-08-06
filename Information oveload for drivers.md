@@ -26,3 +26,5 @@
 - Awareness and education campaigns aren’t nearly enough to deal with the enormity of the problem, but are one necessary component. Stricter enforcement by police is also necessary, though. Above all, drivers need to be more responsible for their own safety and to keep from harming others.
 
 Source: [https://www.latimes.com/business/story/2022-07-06/we-are-killing-people-how-technology-has-made-your-car-a-candy-store-of-distraction]
+
+#UrbanPlanningMobility

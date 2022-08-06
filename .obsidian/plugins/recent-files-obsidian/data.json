@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Tags",
+      "path": "Tags.md"
+    },
+    {
+      "basename": "10 Usability Heuristics",
+      "path": "10 Usability Heuristics.md"
+    },
+    {
+      "basename": "Jakob's Law",
+      "path": "Jakob's Law.md"
+    },
+    {
+      "basename": "Empathy Mapping",
+      "path": "Empathy Mapping.md"
+    },
+    {
+      "basename": "Empathize",
+      "path": "Empathize.md"
+    },
+    {
+      "basename": "Dieter Rams' 10 Principles of Good Design",
+      "path": "Dieter Rams' 10 Principles of Good Design.md"
+    },
+    {
+      "basename": "Design Thinking",
+      "path": "Design Thinking.md"
+    },
+    {
+      "basename": "Data-Driven Design",
+      "path": "Data-Driven Design.md"
+    },
+    {
+      "basename": "Urban Planning",
+      "path": "Urban Planning.md"
+    },
+    {
+      "basename": "Transportation",
+      "path": "Transportation.md"
+    },
+    {
+      "basename": "Public Transportation",
+      "path": "Public Transportation.md"
+    },
+    {
+      "basename": "Information oveload for drivers",
+      "path": "Information oveload for drivers.md"
+    },
+    {
+      "basename": "Green Mobility",
+      "path": "Green Mobility.md"
+    },
+    {
+      "basename": "Religion",
+      "path": "Religion.md"
+    },
+    {
+      "basename": "Cultism",
+      "path": "Cultism.md"
+    },
+    {
+      "basename": "Christianity",
+      "path": "Christianity.md"
+    },
+    {
+      "basename": "Time Travel",
+      "path": "Time Travel.md"
+    },
+    {
+      "basename": "Temptation Bundling",
+      "path": "Temptation Bundling.md"
+    },
+    {
+      "basename": "Habit Stacking",
+      "path": "Habit Stacking.md"
+    },
+    {
+      "basename": "Atomic Habits",
+      "path": "Atomic Habits.md"
+    },
+    {
       "basename": "Nuclear Power",
       "path": "Nuclear Power.md"
     },
@@ -39,54 +119,6 @@
     {
       "basename": "Retro-Futurism",
       "path": "Retro-Futurism.md"
-    },
-    {
-      "basename": "Data-Driven Design",
-      "path": "UX & Design/Data-Driven Design.md"
-    },
-    {
-      "basename": "Dieter Rams' 10 Principles of Good Design",
-      "path": "UX & Design/Dieter Rams' 10 Principles of Good Design.md"
-    },
-    {
-      "basename": "Atomic Habits",
-      "path": "Productivity/Atomic Habits.md"
-    },
-    {
-      "basename": "Information oveload for drivers",
-      "path": "Urban Planning & Mobility/Information oveload for drivers.md"
-    },
-    {
-      "basename": "Productivity",
-      "path": "Productivity/Productivity.md"
-    },
-    {
-      "basename": "Green Mobility",
-      "path": "Urban Planning & Mobility/Green Mobility.md"
-    },
-    {
-      "basename": "Transportation",
-      "path": "Urban Planning & Mobility/Transportation.md"
-    },
-    {
-      "basename": "Cognitive overload",
-      "path": "Urban Planning & Mobility/Cognitive overload.md"
-    },
-    {
-      "basename": "Public Transportation",
-      "path": "Urban Planning & Mobility/Public Transportation.md"
-    },
-    {
-      "basename": "Urban Planning",
-      "path": "Urban Planning & Mobility/Urban Planning.md"
-    },
-    {
-      "basename": "Jakob's Law",
-      "path": "UX & Design/Jakob's Law.md"
-    },
-    {
-      "basename": "10 Usability Heuristics",
-      "path": "UX & Design/10 Usability Heuristics.md"
     }
   ],
   "omittedPaths": [],

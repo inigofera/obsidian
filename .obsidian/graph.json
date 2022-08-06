@@ -8,45 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Productivity",
+      "query": "tag:#Aesthetics",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Urban Planning & Mobility\"",
+      "query": "tag:#KnowledgeManagement",
       "color": {
         "a": 1,
-        "rgb": 6084273
+        "rgb": 14069084
       }
     },
     {
-      "query": "path:UX",
+      "query": "tag:#Multimedia",
       "color": {
         "a": 1,
-        "rgb": 5547000
+        "rgb": 11392604
       }
     },
     {
-      "query": "path:Multimedia",
+      "query": "tag:#Physics",
       "color": {
         "a": 1,
-        "rgb": 15761368
+        "rgb": 6084188
       }
     },
     {
-      "query": "path:\"Knowledge Management\"",
+      "query": "tag:#Productivity",
       "color": {
         "a": 1,
-        "rgb": 13807697
+        "rgb": 6084269
       }
     },
     {
-      "query": "path:Aesthetics",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 2077259
+        "rgb": 6073814
       }
     }
   ],
@@ -61,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.7829758225379991,
-  "close": true
+  "close": false
 }

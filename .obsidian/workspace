@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 12.062726176115802,
+        "dimension": 12.159709618874773,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -17,11 +17,11 @@
       {
         "id": "46c8eae3a9b63d5e",
         "type": "leaf",
-        "dimension": 61.58021712907116,
+        "dimension": 48.880822746521474,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nuclear Power.md",
+            "file": "Tags.md",
             "mode": "source",
             "source": false
           }
@@ -30,7 +30,7 @@
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 26.357056694813032,
+        "dimension": 38.95946763460375,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -79,8 +79,19 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ee676a8ede6ff207",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuclear Power.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuclear Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nuclear Power.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,17 +158,17 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "f11e748ac2dd2507",
+  "active": "05c829323202a998",
   "lastOpenFiles": [
-    "Cities Skylines.md",
-    "Zettelkasten Smart Notes.md",
-    "Fallout.md",
-    "Dark (TV Show).md",
-    "Zettelkasten.md",
-    "Second Brain.md",
-    "P.A.R.A. Framework.md",
-    "Note-taking.md",
-    "Knowledge Management System.md",
-    "Post-Apocalysm.md"
+    "Tags.md",
+    "10 Usability Heuristics.md",
+    "UX & Design/Usability.md",
+    "Jakob's Law.md",
+    "Empathy Mapping.md",
+    "Empathize.md",
+    "Dieter Rams' 10 Principles of Good Design.md",
+    "Design Thinking.md",
+    "Data-Driven Design.md",
+    "Urban Planning.md"
   ]
 }
