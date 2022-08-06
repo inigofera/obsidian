@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 11.702750146284377,
+        "dimension": 12.062726176115802,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -17,11 +17,11 @@
       {
         "id": "46c8eae3a9b63d5e",
         "type": "leaf",
-        "dimension": 48.03978935049737,
+        "dimension": 61.580217129071166,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Knowledge Management/P.A.R.A. Framework.md",
+            "file": "Data-Driven Design.md",
             "mode": "source",
             "source": false
           }
@@ -30,7 +30,7 @@
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 40.257460503218255,
+        "dimension": 26.357056694813032,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Management/P.A.R.A. Framework.md",
+                "file": "Data-Driven Design.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Management/P.A.R.A. Framework.md",
+                "file": "Data-Driven Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Management/P.A.R.A. Framework.md"
+                "file": "Data-Driven Design.md"
               }
             }
           }
@@ -153,8 +153,8 @@
   },
   "active": "46c8eae3a9b63d5e",
   "lastOpenFiles": [
-    "UX & Design/Dieter Rams' 10 Principles of Good Design.md",
     "Knowledge Management/P.A.R.A. Framework.md",
+    "UX & Design/Dieter Rams' 10 Principles of Good Design.md",
     "Productivity/Atomic Habits.md",
     "Urban Planning & Mobility/Information oveload for drivers.md",
     "Multimedia/Fallout.md",
