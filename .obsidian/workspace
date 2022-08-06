@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 16.283405842137974,
+        "dimension": 14.23244251087632,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -15,18 +15,22 @@
         }
       },
       {
-        "id": "46c8eae3a9b63d5e",
+        "id": "8dd5a107342816be",
         "type": "leaf",
-        "dimension": 42.32442510876321,
+        "dimension": 39.838408949658174,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Data-Driven Design.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 41.39216904909882,
+        "dimension": 45.92914853946551,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -107,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data-Driven Design.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data-Driven Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data-Driven Design.md"
+              }
             }
           }
         ]
@@ -154,8 +162,9 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "ee676a8ede6ff207",
+  "active": "8dd5a107342816be",
   "lastOpenFiles": [
+    "Data-Driven Design.md",
     "Tags.md",
     "10 Usability Heuristics.md",
     "UX & Design/Usability.md",
@@ -164,7 +173,6 @@
     "Empathize.md",
     "Dieter Rams' 10 Principles of Good Design.md",
     "Design Thinking.md",
-    "Data-Driven Design.md",
     "Urban Planning.md"
   ]
 }
