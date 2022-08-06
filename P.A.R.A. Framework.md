@@ -20,4 +20,4 @@ Stands for:
 
 [https://fortelabs.co/blog/para/]
 
-#expand
+#expand #KnowledgeManagement

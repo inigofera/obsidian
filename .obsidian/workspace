@@ -17,11 +17,11 @@
       {
         "id": "46c8eae3a9b63d5e",
         "type": "leaf",
-        "dimension": 61.580217129071166,
+        "dimension": 61.58021712907116,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data-Driven Design.md",
+            "file": "Nuclear Power.md",
             "mode": "source",
             "source": false
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data-Driven Design.md",
+                "file": "Nuclear Power.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data-Driven Design.md",
+                "file": "Nuclear Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data-Driven Design.md"
+                "file": "Nuclear Power.md"
               }
             }
           }
@@ -151,17 +151,17 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "46c8eae3a9b63d5e",
+  "active": "f11e748ac2dd2507",
   "lastOpenFiles": [
-    "Knowledge Management/P.A.R.A. Framework.md",
-    "UX & Design/Dieter Rams' 10 Principles of Good Design.md",
-    "Productivity/Atomic Habits.md",
-    "Urban Planning & Mobility/Information oveload for drivers.md",
-    "Multimedia/Fallout.md",
-    "Knowledge Management/Note-taking.md",
-    "Knowledge Management/Zettelkasten.md",
-    "Knowledge Management/Second Brain.md",
-    "Productivity/Productivity.md",
-    "Urban Planning & Mobility/Green Mobility.md"
+    "Cities Skylines.md",
+    "Zettelkasten Smart Notes.md",
+    "Fallout.md",
+    "Dark (TV Show).md",
+    "Zettelkasten.md",
+    "Second Brain.md",
+    "P.A.R.A. Framework.md",
+    "Note-taking.md",
+    "Knowledge Management System.md",
+    "Post-Apocalysm.md"
   ]
 }

@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Data-Driven Design",
-      "path": "Data-Driven Design.md"
+      "basename": "Nuclear Power",
+      "path": "Nuclear Power.md"
+    },
+    {
+      "basename": "Cities Skylines",
+      "path": "Cities Skylines.md"
+    },
+    {
+      "basename": "Zettelkasten Smart Notes",
+      "path": "Zettelkasten Smart Notes.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "Zettelkasten.md"
+    },
+    {
+      "basename": "Second Brain",
+      "path": "Second Brain.md"
     },
     {
       "basename": "P.A.R.A. Framework",
-      "path": "Knowledge Management/P.A.R.A. Framework.md"
+      "path": "P.A.R.A. Framework.md"
+    },
+    {
+      "basename": "Note-taking",
+      "path": "Note-taking.md"
+    },
+    {
+      "basename": "Knowledge Management System",
+      "path": "Knowledge Management System.md"
+    },
+    {
+      "basename": "Post-Apocalysm",
+      "path": "Post-Apocalysm.md"
+    },
+    {
+      "basename": "Retro-Futurism",
+      "path": "Retro-Futurism.md"
+    },
+    {
+      "basename": "Data-Driven Design",
+      "path": "UX & Design/Data-Driven Design.md"
     },
     {
       "basename": "Dieter Rams' 10 Principles of Good Design",
@@ -19,22 +55,6 @@
     {
       "basename": "Information oveload for drivers",
       "path": "Urban Planning & Mobility/Information oveload for drivers.md"
-    },
-    {
-      "basename": "Fallout",
-      "path": "Multimedia/Fallout.md"
-    },
-    {
-      "basename": "Note-taking",
-      "path": "Knowledge Management/Note-taking.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "Knowledge Management/Zettelkasten.md"
-    },
-    {
-      "basename": "Second Brain",
-      "path": "Knowledge Management/Second Brain.md"
     },
     {
       "basename": "Productivity",
@@ -59,18 +79,6 @@
     {
       "basename": "Urban Planning",
       "path": "Urban Planning & Mobility/Urban Planning.md"
-    },
-    {
-      "basename": "Cities Skylines",
-      "path": "Multimedia/Cities Skylines.md"
-    },
-    {
-      "basename": "Zettelkasten Smart Notes",
-      "path": "Knowledge Management/Zettelkasten Smart Notes.md"
-    },
-    {
-      "basename": "Post-Apocalysm",
-      "path": "Aesthetics/Post-Apocalysm.md"
     },
     {
       "basename": "Jakob's Law",
