@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 10.420841683366735,
+        "dimension": 11.702750146284377,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -15,13 +15,13 @@
         }
       },
       {
-        "id": "97b6fa7116f27930",
+        "id": "46c8eae3a9b63d5e",
         "type": "leaf",
-        "dimension": 39.54575818303274,
+        "dimension": 48.03978935049737,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UX & Design/Dieter Rams' 10 Principles of Good Design.md",
+            "file": "Knowledge Management/P.A.R.A. Framework.md",
             "mode": "source",
             "source": false
           }
@@ -30,7 +30,7 @@
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 50.03340013360053,
+        "dimension": 40.257460503218255,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -100,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge Management/P.A.R.A. Framework.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge Management/P.A.R.A. Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge Management/P.A.R.A. Framework.md"
+              }
             }
           }
         ]
@@ -147,15 +151,15 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "05c829323202a998",
+  "active": "46c8eae3a9b63d5e",
   "lastOpenFiles": [
     "UX & Design/Dieter Rams' 10 Principles of Good Design.md",
+    "Knowledge Management/P.A.R.A. Framework.md",
     "Productivity/Atomic Habits.md",
     "Urban Planning & Mobility/Information oveload for drivers.md",
     "Multimedia/Fallout.md",
     "Knowledge Management/Note-taking.md",
     "Knowledge Management/Zettelkasten.md",
-    "Knowledge Management/P.A.R.A. Framework.md",
     "Knowledge Management/Second Brain.md",
     "Productivity/Productivity.md",
     "Urban Planning & Mobility/Green Mobility.md"
