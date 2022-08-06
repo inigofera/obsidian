@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Aesthetics",
@@ -43,23 +43,44 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#ScienceFiction",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
+    },
+    {
+      "query": "tag:#Spirituality",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#UrbanPlanningMobility",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#UXandDesign",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10.0854700854701,
+  "centerStrength": 0.616185897435898,
+  "repelStrength": 13.6912393162393,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7829758225379991,
+  "linkDistance": 223,
+  "scale": 0.4815427420277493,
   "close": false
 }

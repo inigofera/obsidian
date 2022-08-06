@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 12.159709618874773,
+        "dimension": 16.283405842137974,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -17,20 +17,16 @@
       {
         "id": "46c8eae3a9b63d5e",
         "type": "leaf",
-        "dimension": 48.880822746521474,
+        "dimension": 42.32442510876321,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tags.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 38.95946763460375,
+        "dimension": 41.39216904909882,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -95,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 251.5
   },
   "right": {
     "id": "66b3eba9d1e0a907",
@@ -158,7 +154,7 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "05c829323202a998",
+  "active": "ee676a8ede6ff207",
   "lastOpenFiles": [
     "Tags.md",
     "10 Usability Heuristics.md",
