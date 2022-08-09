@@ -6,7 +6,7 @@
       {
         "id": "3ff68aa74aeae807",
         "type": "leaf",
-        "dimension": 14.23244251087632,
+        "dimension": 27.346177750155377,
         "pinned": true,
         "state": {
           "type": "recent-files",
@@ -17,11 +17,11 @@
       {
         "id": "8dd5a107342816be",
         "type": "leaf",
-        "dimension": 39.838408949658174,
+        "dimension": 35.11497824735861,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Building the perfect UX Portfolio.md",
+            "file": "Google UX Design Professional Certificate.md",
             "mode": "source",
             "source": false
           }
@@ -30,7 +30,7 @@
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 45.9291485394655,
+        "dimension": 37.538844002486016,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Building the perfect UX Portfolio.md",
+                "file": "Google UX Design Professional Certificate.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building the perfect UX Portfolio.md",
+                "file": "Google UX Design Professional Certificate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building the perfect UX Portfolio.md"
+                "file": "Google UX Design Professional Certificate.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "8dd5a107342816be",
   "lastOpenFiles": [
+    "Building the perfect UX Portfolio.md",
     "Data-Driven Design.md",
     "Tags.md",
     "10 Usability Heuristics.md",
@@ -170,7 +171,6 @@
     "Empathy Mapping.md",
     "Empathize.md",
     "Dieter Rams' 10 Principles of Good Design.md",
-    "Design Thinking.md",
-    "Urban Planning.md"
+    "Design Thinking.md"
   ]
 }
