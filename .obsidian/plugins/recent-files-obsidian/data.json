@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Zettelkasten Explained",
+      "path": "Zettelkasten Explained.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "Zettelkasten.md"
+    },
+    {
       "basename": "Building the perfect UX Portfolio",
       "path": "Building the perfect UX Portfolio.md"
     },
@@ -95,10 +103,6 @@
     {
       "basename": "Zettelkasten Smart Notes",
       "path": "Zettelkasten Smart Notes.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "Zettelkasten.md"
     },
     {
       "basename": "Second Brain",
