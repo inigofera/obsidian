@@ -12,6 +12,18 @@
           "state": {},
           "pinned": true
         }
+      },
+      {
+        "id": "b79dcb13d89c31ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten for Academic Writing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -84,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten for Academic Writing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten for Academic Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten for Academic Writing.md"
+              }
             }
           }
         ]
@@ -131,7 +147,7 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "05c829323202a998",
+  "active": "b79dcb13d89c31ea",
   "lastOpenFiles": [
     "Zettelkasten Literature Notes.md",
     "Zettelkasten Fleeting Notes.md",
@@ -140,7 +156,7 @@
     "Dieter Rams' 10 Principles of Good Design.md",
     "Dieter's 10 Principles - Applications for web design.md",
     "Zettelkasten Smart Notes.md",
-    "Zettelkasten Example for Academic Writing.md",
+    "Zettelkasten for Academic Writing.md",
     "Zettelkasten.md",
     "Building the perfect UX Portfolio.md"
   ]
