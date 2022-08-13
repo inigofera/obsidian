@@ -2,4 +2,6 @@ It's a [[Knowledge Management System]] and [[Note-taking]] system that enhances 
 
 Forces you to think about the notes when making them.
 
+![[Zettelkasten for Academic Writing]]
+
 #KnowledgeManagement
