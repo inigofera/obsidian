@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P.A.R.A. Framework.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P.A.R.A. Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "P.A.R.A. Framework.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,7 +145,7 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "656eb0415793e350",
+  "active": "05c829323202a998",
   "lastOpenFiles": [
     "P.A.R.A. Framework.md",
     "Zettelkasten.md",
