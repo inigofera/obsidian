@@ -30,6 +30,11 @@ Stands for:
 
 **R** stands for Resource:
 - A topic or theme of ongoing interest.
+- Example: Knowledge Management, Gardening, Habit Formation.
+
+**A** stands for Archive:
+- Inactive items from the other three categories.
+- Example: Projects that have been completed, areas you're no longer interested in.
 
 
 [https://fortelabs.co/blog/para/]
