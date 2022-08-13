@@ -6,11 +6,11 @@
       {
         "id": "ace2b08b7b706bf2",
         "type": "leaf",
-        "dimension": 20.235934664246823,
+        "dimension": 61.40459912989434,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten Explained.md",
+            "file": "Dieter Rams' 10 Principles of Good Design.md",
             "mode": "source",
             "source": false
           }
@@ -19,7 +19,7 @@
       {
         "id": "05c829323202a998",
         "type": "leaf",
-        "dimension": 79.76406533575319,
+        "dimension": 38.59540087010566,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten Explained.md",
+                "file": "Dieter Rams' 10 Principles of Good Design.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten Explained.md",
+                "file": "Dieter Rams' 10 Principles of Good Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten Explained.md"
+                "file": "Dieter Rams' 10 Principles of Good Design.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "ace2b08b7b706bf2",
   "lastOpenFiles": [
+    "Zettelkasten Smart Notes.md",
+    "Zettelkasten Fleeting Notes.md",
+    "Zettelkasten Example for Academic Writing.md",
     "Zettelkasten.md",
     "Building the perfect UX Portfolio.md",
     "Google UX Design Professional Certificate.md",
     "Data-Driven Design.md",
     "Tags.md",
     "10 Usability Heuristics.md",
-    "UX & Design/Usability.md",
-    "Jakob's Law.md",
-    "Empathy Mapping.md",
-    "Empathize.md"
+    "UX & Design/Usability.md"
   ]
 }
