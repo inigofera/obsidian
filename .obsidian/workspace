@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Building the perfect UX Portfolio.md",
+            "file": "Home Page.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#KnowledgeManagement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home Page.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home Page.md"
+              }
             }
           }
         ]
@@ -145,17 +149,17 @@
     "width": 208.5,
     "collapsed": true
   },
-  "active": "05c829323202a998",
+  "active": "656eb0415793e350",
   "lastOpenFiles": [
-    "Building the perfect UX Portfolio.md",
     "P.A.R.A. Framework.md",
+    "Google UX Design Professional Certificate.md",
+    "Building the perfect UX Portfolio.md",
     "Zettelkasten.md",
     "Zettelkasten for Academic Writing.md",
     "Zettelkasten Literature Notes.md",
     "Zettelkasten Fleeting Notes.md",
     "Zettlekasten Permanent Notes.md",
     "Usability.md",
-    "Dieter Rams' 10 Principles of Good Design.md",
-    "Dieter's 10 Principles - Applications for web design.md"
+    "Dieter Rams' 10 Principles of Good Design.md"
   ]
 }
