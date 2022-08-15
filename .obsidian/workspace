@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#KnowledgeManagement",
+                "query": "tag:#ProfessionalDevelopment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,20 +146,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "active": "656eb0415793e350",
   "lastOpenFiles": [
-    "P.A.R.A. Framework.md",
+    "Cities Skylines.md",
+    "Home Page.md",
+    "Building my UX Portfolio.md",
+    "Google UX - Building the perfect UX Portfolio.md",
+    "Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
     "Google UX Design Professional Certificate.md",
-    "Building the perfect UX Portfolio.md",
-    "Zettelkasten.md",
     "Zettelkasten for Academic Writing.md",
-    "Zettelkasten Literature Notes.md",
-    "Zettelkasten Fleeting Notes.md",
-    "Zettlekasten Permanent Notes.md",
-    "Usability.md",
-    "Dieter Rams' 10 Principles of Good Design.md"
+    "P.A.R.A. Framework.md",
+    "Zettelkasten.md",
+    "Zettelkasten Literature Notes.md"
   ]
 }
