@@ -3,7 +3,8 @@
 
 User Experience Design uses research data of different kinds to determine how to provide an optimal user experience. This data helps researchers understand the target audience, reveals information about the user's pain points, discovers new trends and assures teams that their work is on track.
 
-### The impact of data on UX Design
+### The impact of data on [[Design Thinking|UX Design]]
+
  Two types:
  - **Quantitative:** Numerical data that shows _who, what, when and where_. The only thing it doesn't talk to us about is _why_. Quantitative data can be extracted from direct analysis of the usage of the service.
  - **Qualitative:** Data that tells us _why_ and _how_. It can help us understand not just what happens, but the causes and motivations behind it. This type of data is collected through talking to our users.

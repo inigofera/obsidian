@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 58.04847731510255,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Home Page.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ProfessionalDevelopment",
+                "query": "tag:#KnowledgeManagement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Page.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,15 +142,15 @@
   },
   "active": "656eb0415793e350",
   "lastOpenFiles": [
-    "Cities Skylines.md",
-    "Home Page.md",
-    "Building my UX Portfolio.md",
-    "Google UX - Building the perfect UX Portfolio.md",
-    "Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
-    "Google UX Design Professional Certificate.md",
+    "UX Design.md",
+    "Data-Driven Design.md",
     "Zettelkasten for Academic Writing.md",
-    "P.A.R.A. Framework.md",
-    "Zettelkasten.md",
-    "Zettelkasten Literature Notes.md"
+    "Building a Digital Brain.md",
+    "Professional Development.md",
+    "Home Page.md",
+    "Personal Development.md",
+    "Cities Skylines.md",
+    "Building my UX Portfolio.md",
+    "Google UX - Building the perfect UX Portfolio.md"
   ]
 }

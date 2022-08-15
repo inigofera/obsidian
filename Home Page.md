@@ -23,13 +23,13 @@ For example, looking at the node [[Building my UX Portfolio]]:
 ### Projects
 The most logical way to start to explore this DB is to access the project you are most interested in. These are the current ones present in this repository:
 
-- #BuildingPortfolio: My project to build a UX Portfolio for myself, from scratch.
-- #DigitalBrain: My project to construct a Digital Brain for myself. You're in it right now!
+- #BuildingPortfolio: My project to build a UX Portfolio for myself, from scratch. The main page for this project is [[Building my UX Portfolio]].
+- #DigitalBrain: My project to construct a Digital Brain for myself. You're in it right now! The main page for this project is [[Building a Digital Brain]].
 
 ### Areas of Responsibility
 Check out the overarching areas of my life in which I want this DB to act:
 
-- #PersonalDevelopment: Contains projects related to my journey to become a functioning adult.
-- #ProfessionalDevelopment: Contains projects related to my objective of being a 
+- #PersonalDevelopment: Contains projects related to my journey to become a functioning adult. The main page for this area is [[Personal Development]].
+- #ProfessionalDevelopment: Contains projects related to my objective of becoming a top-tier, happy and healthy professional in tech. The main page for this area is [[Professional Development]].
 
 #Home
