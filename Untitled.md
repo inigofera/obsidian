@@ -1,1 +1,1 @@
-awaves.dj ai dj code:plane
+waves.dj ai dj code:plane

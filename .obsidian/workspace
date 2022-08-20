@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "656eb0415793e350",
+        "id": "19cbdcf6b433aded",
         "type": "leaf",
-        "dimension": 58.04847731510255,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "05c829323202a998",
-        "type": "leaf",
-        "dimension": 41.951522684897455,
-        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {},
-          "pinned": true
+          "state": {}
         }
       }
     ],
@@ -78,7 +62,7 @@
             }
           },
           {
-            "id": "3c6df30f2640b8d7",
+            "id": "030c8e10618ce182",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -106,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +136,9 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "3c6df30f2640b8d7",
+  "active": "19cbdcf6b433aded",
   "lastOpenFiles": [
+    "Untitled.md",
     "UX Design.md",
     "Data-Driven Design.md",
     "Zettelkasten for Academic Writing.md",
@@ -166,7 +147,6 @@
     "Home Page.md",
     "Personal Development.md",
     "Cities Skylines.md",
-    "Building my UX Portfolio.md",
-    "Google UX - Building the perfect UX Portfolio.md"
+    "Building my UX Portfolio.md"
   ]
 }
