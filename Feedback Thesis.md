@@ -1,7 +1,7 @@
 # Feedback thesis
 
 ## Title page
-- To many "knowledge".
+- Too many "knowledge".
 
 ## Acronyms
 - HCI is there twice.
