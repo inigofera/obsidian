@@ -1,4 +1,4 @@
-# Feedback thesis
+# Thesis Presentation
 
 ## Title page
 - Too many "knowledge".
