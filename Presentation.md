@@ -1,7 +1,7 @@
 # Thesis Presentation
 
 ## Title page
-- Too many "knowledge".
+- From Personal to Community Knowledge: 
 
 ## Acronyms
 - HCI is there twice.
