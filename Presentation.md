@@ -9,9 +9,23 @@
 - Digital KMPs, while they have been proven to increase academic performance, are not used by a lot of students.
 - Research Questions.
 
-## Theoretical Background (4 min)
+## KM Theoretical Background (2 min)
+- Learn about Knowledge Management.
+	- Concept
+	- Personal KM
+	- Platforms
 
-## Research Project (5 min)
+## KM Research Project (3 min)
+- Preliminary Interviews
+	- Screener
+	- Sample, Tools, Procedure
+- Quantitative Survey
+	- Sample, Tools, Procedure
+
+## PT Theoretical Background (2 min)
+- 
+
+## PT Research Project (2 min)
 
 ## Results (3 min)
 
