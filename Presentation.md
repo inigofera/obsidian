@@ -6,7 +6,8 @@
 ## The problem (3 min)
 
 - With recent growth in popularity of ICTs, collaborative cloud workspaces are becoming commonplace, and not just in corporations, but also for students.
-- Digital KMPs, while they have been proven to increase academic performance, 
+- Digital KMPs, while they have been proven to increase academic performance, are not used by a lot of students.
+- Research Questions.
 
 ## Theoretical Background (4 min)
 
