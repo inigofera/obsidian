@@ -16,18 +16,25 @@
 	- Platforms
 
 ## KM Research Project (3 min)
-- Preliminary Interviews
+- Exploratory Interviews
 	- Screener
 	- Sample, Tools, Procedure
 - Quantitative Survey
 	- Sample, Tools, Procedure
 
 ## PT Theoretical Background (2 min)
-- 
+- Gamification
+- Nudge Theory
 
 ## PT Research Project (2 min)
+- Interaction Framework
+	- Context
+	- Lo-fi
+	- Hi-fi
 
-## Results (3 min)
+## Results (4 min)
+- Exploratory Interviews
+- Quantitative Survey
 
-## Discussion and Takeaways (4 min)
-
+## Discussion and Takeaways (3 min)
+- Revisit Research Questions
