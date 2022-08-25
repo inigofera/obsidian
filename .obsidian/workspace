@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Presentation.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Presentation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Presentation.md"
               }
             }
           }
@@ -146,6 +146,7 @@
   },
   "active": "19cbdcf6b433aded",
   "lastOpenFiles": [
+    "Is this really progress.md",
     "Presentation.md",
     "UX Design.md",
     "Data-Driven Design.md",
@@ -154,7 +155,6 @@
     "Professional Development.md",
     "Home Page.md",
     "Personal Development.md",
-    "Cities Skylines.md",
-    "Building my UX Portfolio.md"
+    "Cities Skylines.md"
   ]
 }
