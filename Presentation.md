@@ -35,6 +35,7 @@
 ## Results (4 min)
 - Exploratory Interviews
 - Quantitative Survey
+- Framework
 
 ## Discussion and Takeaways (3 min)
-- Revisit Research Questions
+		- Revisit Research Questions
