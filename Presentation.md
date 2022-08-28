@@ -26,7 +26,11 @@
 
 ## PT Theoretical Background (1 min)
 - Gamification
+	- Enhancement of services with game-like motivational mechanisms.
+	- Extrinsic motivation that aims to create intrinsic motivation.
 - Nudge Theory
+	- Indirect suggestions and positive reinforcement to influence the behavior and decision-making.
+	- Further interests without alienating users.
 
 ## PT Research Project (3 min)
 - Interaction Framework
