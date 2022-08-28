@@ -7,6 +7,7 @@
 
 - Collaborative cloud workspaces are becoming commonplace with the democratization of ICTs. Not just in corporations, but also for students. These circumstances have exposed students to the immense amounts of information available on the Internet, but have not equipped them with skills to manage all the information they come across effectively.
 - Digital KMPs, while they have been proven to increase academic performance, are not used by a lot of students.
+- Also, 
 - This 
 - Research Questions.
 
