@@ -16,16 +16,18 @@
 	- Personal KM
 	- Platforms
 
-## KM Research Project (3 min)
+## KM Research Project (5 min)
+- Screener
+	- 
 - Exploratory Interviews
-	- Screener
-	- Sample, Tools, Procedure
+	- 
 - Quantitative Survey
-	- Sample, Tools, Procedure
+	- 
 -  Findings
 	- 4 clusters
 	- Resistance to change is bilateral
-## PT Theoretical Background (1 min)
+
+## PT Theoretical Background (2 min)
 - Gamification
 	- Enhancement of services with game-like motivational mechanisms.
 	- Extrinsic motivation that aims to create intrinsic motivation.
@@ -33,16 +35,11 @@
 	- Indirect suggestions and positive reinforcement to influence the behavior and decision-making.
 	- Further interests without alienating users.
 
-## PT Research Project (3 min)
+## PT Research Project (4 min)
 - Interaction Framework
 	- Context
 	- Lo-fi
 	- Hi-fi
-
-## Results (4 min)
-- Exploratory Interviews
-- Quantitative Survey
-- Framework
 
 ## Discussion and Takeaways (3 min)
 		- Revisit Research Questions
