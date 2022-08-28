@@ -24,11 +24,11 @@
 - Quantitative Survey
 	- Sample, Tools, Procedure
 
-## PT Theoretical Background (2 min)
+## PT Theoretical Background (1 min)
 - Gamification
 - Nudge Theory
 
-## PT Research Project (2 min)
+## PT Research Project (3 min)
 - Interaction Framework
 	- Context
 	- Lo-fi
