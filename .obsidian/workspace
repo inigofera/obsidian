@@ -7,8 +7,12 @@
         "id": "19cbdcf6b433aded",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Is this really progress.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -62,7 +66,7 @@
             }
           },
           {
-            "id": "a6fc69f591891ca5",
+            "id": "12e90463bdcd3cdf",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Is this really progress.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Is this really progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Is this really progress.md"
+              }
             }
           }
         ]
@@ -138,8 +146,8 @@
   },
   "active": "19cbdcf6b433aded",
   "lastOpenFiles": [
-    "Is this really progress.md",
     "Presentation.md",
+    "Is this really progress.md",
     "UX Design.md",
     "Data-Driven Design.md",
     "Zettelkasten for Academic Writing.md",
