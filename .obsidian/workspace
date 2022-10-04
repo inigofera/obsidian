@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Is this really progress.md",
+            "file": "Politics.md",
             "mode": "source",
             "source": false
           }
@@ -66,15 +66,14 @@
             }
           },
           {
-            "id": "18cce0aeea237aa9",
+            "id": "1653f006f8a870ee",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is this really progress.md",
+                "file": "Politics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Is this really progress.md",
+                "file": "Politics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Is this really progress.md"
+                "file": "Politics.md"
               }
             }
           }
@@ -142,19 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 198.5
   },
-  "active": "18cce0aeea237aa9",
+  "active": "19cbdcf6b433aded",
   "lastOpenFiles": [
-    "Presentation.md",
+    "Power.md",
     "Is this really progress.md",
+    "Presentation.md",
     "UX Design.md",
     "Data-Driven Design.md",
     "Zettelkasten for Academic Writing.md",
     "Building a Digital Brain.md",
     "Professional Development.md",
     "Home Page.md",
-    "Personal Development.md",
-    "Cities Skylines.md"
+    "Personal Development.md"
   ]
 }
