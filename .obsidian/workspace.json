@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "1c3608d1f2ff5c7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "594a234e29dea5e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f760e2dab8b978eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univariate Numerical Measure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e1f203a1813c908",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fb8298bdbd04a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descriptive Statistics vs Statistical Inference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45839730a92d2bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interquartile Range (IQR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "512eba68863b5e34",
+    "type": "split",
+    "children": [
+      {
+        "id": "816c299243d70792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f11e748ac2dd2507",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "291a7490d86645e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7742db8bf25a1fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b36361d5268ffaad",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5a7619aaa8efe3a",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "66b3eba9d1e0a907",
+    "type": "split",
+    "children": [
+      {
+        "id": "6125e68fc337d649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d32a7babf5f9231",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interquartile Range (IQR).md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a2a2ccef546aa63f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Interquartile Range (IQR).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "622e66c751c6d36a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "832ab1945747bdd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interquartile Range (IQR).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "45839730a92d2bb6",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Interquartile Range (IQR).md",
+    "Descriptive Statistics vs Statistical Inference.md",
+    "Data-Driven Design.md",
+    "Univariate Numerical Measure.md",
+    "UX Data Analysis MOOC.md",
+    "Presentation.md",
+    "Power.md",
+    "Politics.md",
+    "Is this really progress.md"
+  ]
+}

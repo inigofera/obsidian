@@ -23,4 +23,4 @@ Data-driven design is important because it helps us:
 
 
 https://www.uxmatters.com/mt/archives/2020/10/data-driven-design-an-integral-part-of-ux-design.php
-#UXandDesign
+#UXandDesign #DataScience 
