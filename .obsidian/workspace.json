@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "3e1f203a1813c908",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "2fb8298bdbd04a6c",
             "type": "leaf",
             "state": {
@@ -50,9 +42,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c439d9a7441baac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "f3dd1ab1dccb244f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e1f203a1813c908",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +122,7 @@
             }
           },
           {
-            "id": "f5a7619aaa8efe3a",
+            "id": "93241b2758725a61",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -135,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Correlation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Correlation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Correlation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,20 +196,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "45839730a92d2bb6",
+  "active": "3e1f203a1813c908",
   "lastOpenFiles": [
+    "Univariate Numerical Measure.md",
+    "Descriptive Statistics vs Statistical Inference.md",
+    "Correlation.md",
     "UX Data Analysis MOOC.md",
     "Interquartile Range (IQR).md",
     "conflict-files-obsidian-git.md",
-    "Descriptive Statistics vs Statistical Inference.md",
     "Data-Driven Design.md",
-    "Univariate Numerical Measure.md",
     "Presentation.md",
     "Power.md",
-    "Politics.md",
-    "Is this really progress.md"
+    "Politics.md"
   ]
 }

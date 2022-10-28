@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Univariate Numerical Measure",
+      "path": "Univariate Numerical Measure.md"
+    },
+    {
+      "basename": "Descriptive Statistics vs Statistical Inference",
+      "path": "Descriptive Statistics vs Statistical Inference.md"
+    },
+    {
       "basename": "Correlation",
       "path": "Correlation.md"
     },
@@ -13,16 +21,8 @@
       "path": "Interquartile Range (IQR).md"
     },
     {
-      "basename": "Descriptive Statistics vs Statistical Inference",
-      "path": "Descriptive Statistics vs Statistical Inference.md"
-    },
-    {
       "basename": "Data-Driven Design",
       "path": "Data-Driven Design.md"
-    },
-    {
-      "basename": "Univariate Numerical Measure",
-      "path": "Univariate Numerical Measure.md"
     },
     {
       "basename": "Power",
