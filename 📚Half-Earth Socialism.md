@@ -3,5 +3,5 @@
 ## Topics covered:
 - The [[Humanization of Nature]].
 
-#book #polsci
+#book #polsci #environmentalism 
 

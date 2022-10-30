@@ -12,4 +12,5 @@ Also covered in this article: https://sci-hub.se/10.1017/S0147547920000198
 	- Cash-crops, logging, and mining projects have penetrated deep into the heart of previously intact ecosystems, creating unprecedented opportunities for pathogens to jump species.
 - The less room humanity leaves to nature, the more environmental problems—including new, deadly diseases—there will be.
 - The only way to address the environmental crisis is to reduce the scale of human intervention in nature, which is another way to say that we need to imagine a world of *less work*.
+- Presents the concept of the [[2000W Society]]. The average American uses 12000W of energy per year, which is twice as much as European people and **twelve times as much** as Indian people.
 
