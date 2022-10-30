@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Half-Earth Socialism.md",
+                "file": "Chronbach's Alpha.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Half-Earth Socialism.md",
+                "file": "Chronbach's Alpha.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Half-Earth Socialism.md",
+                "file": "Chronbach's Alpha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Half-Earth Socialism.md"
+                "file": "Chronbach's Alpha.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "5c439d9a7441baac",
   "lastOpenFiles": [
+    "UX Data Analysis MOOC.md",
+    "📚Half-Earth Socialism.md",
     "2000W Society.md",
     "📰Is this really progress.md",
-    "📚Half-Earth Socialism.md",
     "Humanization of Nature.md",
     "Correlation.md",
     "Descriptive Statistics vs Statistical Inference.md",
     "Data-Driven Design.md",
     "Univariate Numerical Measure.md",
-    "Interquartile Range (IQR).md",
-    "Power.md"
+    "Interquartile Range (IQR).md"
   ]
 }

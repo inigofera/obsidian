@@ -1,0 +1,3 @@
+- Metric used to assess the internal coherence or consistency of a set of variables.
+- ![[Pasted image 20221030173200.png]]
+- 
