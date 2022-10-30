@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 63.4020618556701,
+        "dimension": 55.54123711340206,
         "children": [
           {
             "id": "5c439d9a7441baac",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronbach's Alpha.md",
+                "file": "Statistical Inference Errors and Biases.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "f3dd1ab1dccb244f",
         "type": "tabs",
-        "dimension": 36.597938144329895,
+        "dimension": 44.45876288659794,
         "children": [
           {
             "id": "3e1f203a1813c908",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chronbach's Alpha.md",
+                "file": "Statistical Inference Errors and Biases.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chronbach's Alpha.md",
+                "file": "Statistical Inference Errors and Biases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chronbach's Alpha.md"
+                "file": "Statistical Inference Errors and Biases.md"
               }
             }
           }
@@ -173,14 +173,14 @@
   "active": "5c439d9a7441baac",
   "lastOpenFiles": [
     "UX Data Analysis MOOC.md",
-    "📚Half-Earth Socialism.md",
-    "2000W Society.md",
-    "📰Is this really progress.md",
+    "Statistical Inference Errors and Biases.md",
     "Humanization of Nature.md",
-    "Correlation.md",
     "Descriptive Statistics vs Statistical Inference.md",
-    "Data-Driven Design.md",
     "Univariate Numerical Measure.md",
-    "Interquartile Range (IQR).md"
+    "Estimator.md",
+    "Google UX Design Professional Certificate.md",
+    "Chronbach's Alpha.md",
+    "📚Half-Earth Socialism.md",
+    "2000W Society.md"
   ]
 }

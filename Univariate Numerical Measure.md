@@ -10,4 +10,4 @@
 	- The **standard deviation** captures this dimension. It is the standardized (square root) version of the average of all values' deviations versus the mean.
 	- **Range** also measures dispersion. It is the difference between the maximum and minimum values
 
-#UXandDesign #DataScience 
+#DataScience 

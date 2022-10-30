@@ -11,4 +11,4 @@
 
 ![[Pasted image 20221025165805.png]]
 
-#UXandDesign #DataScience  
+#DataScience  
