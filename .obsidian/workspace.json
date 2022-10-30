@@ -6,17 +6,20 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
+        "dimension": 67.03821656050955,
         "children": [
           {
             "id": "5c439d9a7441baac",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Humanization of Nature.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -24,13 +27,16 @@
       {
         "id": "f3dd1ab1dccb244f",
         "type": "tabs",
+        "dimension": 32.961783439490446,
         "children": [
           {
             "id": "3e1f203a1813c908",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ]
