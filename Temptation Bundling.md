@@ -1,4 +1,4 @@
-Seen on [[Atomic Habits]].
+Seen on [[📚Atomic Habits]].
 
 Technique that makes boring tasks more attractive by bundling them up with more attractive tasks.
 
