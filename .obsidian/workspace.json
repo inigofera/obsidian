@@ -9,12 +9,12 @@
         "dimension": 55.54123711340206,
         "children": [
           {
-            "id": "5c439d9a7441baac",
+            "id": "950cef124c60ac9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistical Inference Errors and Biases.md",
+                "file": "UX Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical Inference Errors and Biases.md",
+                "file": "UX Writing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistical Inference Errors and Biases.md",
+                "file": "UX Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistical Inference Errors and Biases.md"
+                "file": "UX Writing.md"
               }
             }
           }
@@ -170,10 +170,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "5c439d9a7441baac",
+  "active": "950cef124c60ac9e",
   "lastOpenFiles": [
-    "UX Data Analysis MOOC.md",
     "Statistical Inference Errors and Biases.md",
+    "UX Data Analysis MOOC.md",
     "Humanization of Nature.md",
     "Descriptive Statistics vs Statistical Inference.md",
     "Univariate Numerical Measure.md",
