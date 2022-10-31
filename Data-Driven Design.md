@@ -21,6 +21,8 @@ Data-driven design is important because it helps us:
 4.  **Leverage data** to drive innovation
 	- Designers can—and should—be able to propose drastic, daring changes. If designers want to propose innovative designs, they should back up their design hypotheses with data.
 
+More info at [[UX Data Analysis]].
+
 
 https://www.uxmatters.com/mt/archives/2020/10/data-driven-design-an-integral-part-of-ux-design.php
 #UXandDesign #DataScience 

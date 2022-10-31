@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Data Analysis MOOC.md",
+                "file": "Data-Driven Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data-Driven Design.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data-Driven Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data-Driven Design.md"
+              }
             }
           }
         ]
@@ -166,17 +170,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "3e1f203a1813c908",
+  "active": "950cef124c60ac9e",
   "lastOpenFiles": [
-    "UX Data Analysis MOOC.md",
-    "UX Data Analysis.md",
-    "User Experience.md",
-    "UX Writing.md",
     "Design Thinking.md",
+    "Data-Driven Design.md",
     "UX Writing Research.md",
-    "A Taste of UX Writing MOOC.md",
-    "Building a Digital Brain.md",
-    "Home Page.md",
-    "Microcopy in UX.md"
+    "User Experience.md",
+    "Building my UX Portfolio.md",
+    "UX Data Analysis.md",
+    "📰Is this really progress.md",
+    "UX Data Analysis MOOC.md",
+    "UX Writing.md",
+    "A Taste of UX Writing MOOC.md"
   ]
 }
