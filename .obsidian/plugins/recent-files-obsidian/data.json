@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "User Experience",
+      "path": "User Experience.md"
+    },
+    {
       "basename": "UX Writing",
       "path": "UX Writing.md"
     },
     {
-      "basename": "Statistical Inference Errors and Biases",
-      "path": "Statistical Inference Errors and Biases.md"
+      "basename": "UX Data Analysis",
+      "path": "UX Data Analysis.md"
+    },
+    {
+      "basename": "Design Thinking",
+      "path": "Design Thinking.md"
+    },
+    {
+      "basename": "UX Writing Research",
+      "path": "UX Writing Research.md"
     },
     {
       "basename": "UX Data Analysis MOOC",
       "path": "UX Data Analysis MOOC.md"
+    },
+    {
+      "basename": "A Taste of UX Writing MOOC",
+      "path": "A Taste of UX Writing MOOC.md"
+    },
+    {
+      "basename": "Building a Digital Brain",
+      "path": "Building a Digital Brain.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "Microcopy in UX",
+      "path": "Microcopy in UX.md"
+    },
+    {
+      "basename": "Statistical Inference Errors and Biases",
+      "path": "Statistical Inference Errors and Biases.md"
     },
     {
       "basename": "Humanization of Nature",
@@ -109,10 +141,6 @@
       "path": "Dieter Rams' 10 Principles of Good Design.md"
     },
     {
-      "basename": "Design Thinking",
-      "path": "Design Thinking.md"
-    },
-    {
       "basename": "Urban Planning",
       "path": "Urban Planning.md"
     },
@@ -171,22 +199,6 @@
     {
       "basename": "P.A.R.A. Framework",
       "path": "P.A.R.A. Framework.md"
-    },
-    {
-      "basename": "Note-taking",
-      "path": "Note-taking.md"
-    },
-    {
-      "basename": "Knowledge Management System",
-      "path": "Knowledge Management System.md"
-    },
-    {
-      "basename": "Post-Apocalysm",
-      "path": "Post-Apocalysm.md"
-    },
-    {
-      "basename": "Retro-Futurism",
-      "path": "Retro-Futurism.md"
     }
   ],
   "omittedPaths": [],

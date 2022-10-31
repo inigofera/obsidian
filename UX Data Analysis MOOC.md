@@ -3,6 +3,7 @@
 
 ### Descriptive Statistics
 - [[Univariate Numerical Measure]]
+- [[Interquartile Range (IQR)]]
 - [[Correlation]]
 - [[Chronbach's Alpha]]
 
