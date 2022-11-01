@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 53.05859626529298,
+        "dimension": 53.058596265292984,
         "children": [
           {
             "id": "950cef124c60ac9e",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data-Driven Design.md",
+                "file": "📰Is this really progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "f3dd1ab1dccb244f",
         "type": "tabs",
-        "dimension": 46.94140373470702,
+        "dimension": 46.941403734707016,
         "children": [
           {
             "id": "3e1f203a1813c908",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "93241b2758725a61",
+            "id": "5bafc22ec4b0597c",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data-Driven Design.md",
+                "file": "📰Is this really progress.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data-Driven Design.md",
+                "file": "📰Is this really progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data-Driven Design.md"
+                "file": "📰Is this really progress.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "950cef124c60ac9e",
   "lastOpenFiles": [
-    "Design Thinking.md",
+    "2000W Society.md",
+    "📰Is this really progress.md",
     "Data-Driven Design.md",
+    "Design Thinking.md",
     "UX Writing Research.md",
     "User Experience.md",
     "Building my UX Portfolio.md",
     "UX Data Analysis.md",
-    "📰Is this really progress.md",
     "UX Data Analysis MOOC.md",
-    "UX Writing.md",
-    "A Taste of UX Writing MOOC.md"
+    "UX Writing.md"
   ]
 }
