@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "Information Architecture Strategy",
+      "path": "Information Architecture Strategy.md"
+    },
+    {
+      "basename": "Information Architecture",
+      "path": "Information Architecture.md"
+    },
+    {
+      "basename": "Eight Principles of Information Architecture",
+      "path": "Eight Principles of Information Architecture.md"
+    },
+    {
+      "basename": "The Principle of Choices",
+      "path": "The Principle of Choices.md"
+    },
+    {
+      "basename": "The Principle of Objects",
+      "path": "The Principle of Objects.md"
+    },
+    {
+      "basename": "User Research",
+      "path": "User Research.md"
+    },
+    {
+      "basename": "Card sorting",
+      "path": "Card sorting.md"
+    },
+    {
+      "basename": "The Principle of Exemplars",
+      "path": "The Principle of Exemplars.md"
+    },
+    {
+      "basename": "The Principle of Focused Navigation",
+      "path": "The Principle of Focused Navigation.md"
+    },
+    {
+      "basename": "The Principle of Front Doors",
+      "path": "The Principle of Front Doors.md"
+    },
+    {
+      "basename": "The Principle of Multiple Classification",
+      "path": "The Principle of Multiple Classification.md"
+    },
+    {
+      "basename": "The Principle of Growth",
+      "path": "The Principle of Growth.md"
+    },
+    {
+      "basename": "The Principle of Disclosure",
+      "path": "The Principle of Disclosure.md"
+    },
+    {
+      "basename": "Empathize",
+      "path": "Empathize.md"
+    },
+    {
+      "basename": "UX Data Analysis",
+      "path": "UX Data Analysis.md"
+    },
+    {
+      "basename": "10 Usability Heuristics",
+      "path": "10 Usability Heuristics.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "Building my UX Portfolio",
+      "path": "Building my UX Portfolio.md"
+    },
+    {
+      "basename": "Google UX Design Professional Certificate",
+      "path": "Google UX Design Professional Certificate.md"
+    },
+    {
+      "basename": "UX Data Analysis MOOC",
+      "path": "UX Data Analysis MOOC.md"
+    },
+    {
+      "basename": "Univariate Numerical Measure",
+      "path": "Univariate Numerical Measure.md"
+    },
+    {
+      "basename": "Interquartile Range (IQR)",
+      "path": "Interquartile Range (IQR).md"
+    },
+    {
       "basename": "📰Is this really progress",
       "path": "📰Is this really progress.md"
     },
@@ -25,18 +113,6 @@
       "path": "User Experience.md"
     },
     {
-      "basename": "Building my UX Portfolio",
-      "path": "Building my UX Portfolio.md"
-    },
-    {
-      "basename": "UX Data Analysis",
-      "path": "UX Data Analysis.md"
-    },
-    {
-      "basename": "UX Data Analysis MOOC",
-      "path": "UX Data Analysis MOOC.md"
-    },
-    {
       "basename": "UX Writing",
       "path": "UX Writing.md"
     },
@@ -47,10 +123,6 @@
     {
       "basename": "Building a Digital Brain",
       "path": "Building a Digital Brain.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "Microcopy in UX",
@@ -69,16 +141,8 @@
       "path": "Descriptive Statistics vs Statistical Inference.md"
     },
     {
-      "basename": "Univariate Numerical Measure",
-      "path": "Univariate Numerical Measure.md"
-    },
-    {
       "basename": "Estimator",
       "path": "Estimator.md"
-    },
-    {
-      "basename": "Google UX Design Professional Certificate",
-      "path": "Google UX Design Professional Certificate.md"
     },
     {
       "basename": "Chronbach's Alpha",
@@ -91,10 +155,6 @@
     {
       "basename": "Correlation",
       "path": "Correlation.md"
-    },
-    {
-      "basename": "Interquartile Range (IQR)",
-      "path": "Interquartile Range (IQR).md"
     },
     {
       "basename": "Power",
@@ -121,20 +181,12 @@
       "path": "Zettelkasten.md"
     },
     {
-      "basename": "10 Usability Heuristics",
-      "path": "10 Usability Heuristics.md"
-    },
-    {
       "basename": "Jakob's Law",
       "path": "Jakob's Law.md"
     },
     {
       "basename": "Empathy Mapping",
       "path": "Empathy Mapping.md"
-    },
-    {
-      "basename": "Empathize",
-      "path": "Empathize.md"
     },
     {
       "basename": "Dieter Rams' 10 Principles of Good Design",
@@ -147,58 +199,6 @@
     {
       "basename": "Transportation",
       "path": "Transportation.md"
-    },
-    {
-      "basename": "Public Transportation",
-      "path": "Public Transportation.md"
-    },
-    {
-      "basename": "Information oveload for drivers",
-      "path": "Information oveload for drivers.md"
-    },
-    {
-      "basename": "Green Mobility",
-      "path": "Green Mobility.md"
-    },
-    {
-      "basename": "Religion",
-      "path": "Religion.md"
-    },
-    {
-      "basename": "Cultism",
-      "path": "Cultism.md"
-    },
-    {
-      "basename": "Christianity",
-      "path": "Christianity.md"
-    },
-    {
-      "basename": "Time Travel",
-      "path": "Time Travel.md"
-    },
-    {
-      "basename": "Temptation Bundling",
-      "path": "Temptation Bundling.md"
-    },
-    {
-      "basename": "Nuclear Power",
-      "path": "Nuclear Power.md"
-    },
-    {
-      "basename": "Cities Skylines",
-      "path": "Cities Skylines.md"
-    },
-    {
-      "basename": "Zettelkasten Smart Notes",
-      "path": "Zettelkasten Smart Notes.md"
-    },
-    {
-      "basename": "Second Brain",
-      "path": "Second Brain.md"
-    },
-    {
-      "basename": "P.A.R.A. Framework",
-      "path": "P.A.R.A. Framework.md"
     }
   ],
   "omittedPaths": [],
