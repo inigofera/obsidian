@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Usability",
+      "path": "Usability.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dieter Rams' 10 Principles of Good Design",
       "path": "Dieter Rams' 10 Principles of Good Design.md"
-    },
-    {
-      "basename": "Urban Planning",
-      "path": "Urban Planning.md"
     }
   ],
   "omittedPaths": [],
