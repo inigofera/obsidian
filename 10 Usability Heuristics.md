@@ -6,7 +6,7 @@ As described by [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usab
 	- This can help build trust through continuous communication.
 2. Match between system and real world
 	- The system should ensure that users can understand all its features without having to look up any word or concept.
-	- A designer should never assume that the user's understading of words or concepts will match his or hers.
+	- A designer should never assume that the user's understanding of words or concepts will match his or hers.
 	- Through user research, the users' familiar terminology can be discovered, as well as their mental models around important concepts.
 3. User control and freedom
 	- Systems should account for the fact that users often make actions by mistake.
