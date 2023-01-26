@@ -26,7 +26,7 @@ As described by [Nielsen Norman Group](https://www.nngroup.com/articles/ten-usab
 	- Systems should let users recognize information in the interface, rather than having to remember (recall) it.
 	- Systems should provide help in context, instead of dumping a lot of information for the user to memorize.
 	- Overall, the system should try to minimize the information that the user needs to remember.
-7. Felixibility and efficiency of use
+7. Flexibility and efficiency of use
 	- Systems should cater to inexperienced and experienced users alike.
 	- Systems should provide accelerators like keyboard shortcuts or touch gestures.
 	- Systems should aim to provide personalization by tailoring content and functionality for individual users.
