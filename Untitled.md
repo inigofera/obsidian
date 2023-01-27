@@ -1,4 +1,6 @@
 - My nails start to grow again
 - We need to take the cat to the vet
 	- You can do the meal prep while I go
+- Hands calloused from bouldering
+- We never check our phones anymore
 - 

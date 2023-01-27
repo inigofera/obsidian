@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Usability Heuristics.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Usability Heuristics.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Usability Heuristics.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Usability Heuristics.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -195,6 +194,7 @@
   },
   "active": "5a25bafe366f1df8",
   "lastOpenFiles": [
+    "10 Usability Heuristics.md",
     "Usability.md",
     "Untitled.md",
     "Information Architecture Strategy.md",
@@ -203,7 +203,6 @@
     "The Principle of Choices.md",
     "The Principle of Objects.md",
     "User Research.md",
-    "Card sorting.md",
-    "The Principle of Exemplars.md"
+    "Card sorting.md"
   ]
 }
