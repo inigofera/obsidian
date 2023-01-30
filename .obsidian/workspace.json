@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univariate Numerical Measure.md",
+                "file": "Information Architecture Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univariate Numerical Measure.md",
+                "file": "Information Architecture Strategy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univariate Numerical Measure.md",
+                "file": "Information Architecture Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univariate Numerical Measure.md"
+                "file": "Information Architecture Strategy.md"
               }
             }
           }
@@ -194,6 +194,7 @@
   },
   "active": "5a25bafe366f1df8",
   "lastOpenFiles": [
+    "Univariate Numerical Measure.md",
     "UX Data Analysis MOOC.md",
     "UX Data Analysis.md",
     "User Experience.md",
@@ -202,7 +203,6 @@
     "Usability.md",
     "Information Architecture Strategy.md",
     "Information Architecture.md",
-    "Eight Principles of Information Architecture.md",
-    "The Principle of Choices.md"
+    "Eight Principles of Information Architecture.md"
   ]
 }
