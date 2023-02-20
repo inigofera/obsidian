@@ -13,5 +13,8 @@ I look too much at my phone. I don't talk to my mom enough.
 I don't talk to my grandma enough.
 I don't save enough money.
 I don't work hard enough.
+I'm not patient enough. I don't enjoy life enough.
+I don't enjoy my youth enough. I don't live enough.
+I don't put enough effort.
 Nothing ever feels like it's enough.
 
