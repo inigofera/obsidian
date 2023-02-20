@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,14 +105,15 @@
             }
           },
           {
-            "id": "f37620a6dcfc1eab",
+            "id": "47c465393f60a939",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Architecture Strategy.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -194,6 +195,7 @@
   },
   "active": "5a25bafe366f1df8",
   "lastOpenFiles": [
+    "Information Architecture Strategy.md",
     "Univariate Numerical Measure.md",
     "UX Data Analysis MOOC.md",
     "UX Data Analysis.md",
@@ -201,7 +203,6 @@
     "Untitled.md",
     "10 Usability Heuristics.md",
     "Usability.md",
-    "Information Architecture Strategy.md",
     "Information Architecture.md",
     "Eight Principles of Information Architecture.md"
   ]

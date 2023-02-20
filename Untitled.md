@@ -3,4 +3,15 @@
 	- You can do the meal prep while I go
 - Hands calloused from bouldering
 - We never check our phones anymore
-- 
+
+
+You looked at me today
+
+I sleep too little.
+I eat too much. I drink too much coffee.
+I look too much at my phone. I don't talk to my mom enough.
+I don't talk to my grandma enough.
+I don't save enough money.
+I don't work hard enough.
+Nothing ever feels like it's enough.
+
