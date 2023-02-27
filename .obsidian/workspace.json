@@ -31,9 +31,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56d39003603c1f05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f3dd1ab1dccb244f",
@@ -105,7 +115,7 @@
             }
           },
           {
-            "id": "47c465393f60a939",
+            "id": "a875b6d708d5641b",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -193,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a25bafe366f1df8",
+  "active": "56d39003603c1f05",
   "lastOpenFiles": [
     "Information Architecture Strategy.md",
     "Univariate Numerical Measure.md",
