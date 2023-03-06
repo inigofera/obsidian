@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Mindfulness Journal",
+      "path": "Mindfulness Journal.md"
     },
     {
       "basename": "Information Architecture Strategy",
       "path": "Information Architecture Strategy.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "Univariate Numerical Measure",
@@ -195,10 +199,6 @@
     {
       "basename": "Empathy Mapping",
       "path": "Empathy Mapping.md"
-    },
-    {
-      "basename": "Dieter Rams' 10 Principles of Good Design",
-      "path": "Dieter Rams' 10 Principles of Good Design.md"
     }
   ],
   "omittedPaths": [],

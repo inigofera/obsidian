@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 53.36577453365775,
+        "dimension": 61.62570888468809,
         "children": [
           {
             "id": "1c185482513d3ba1",
@@ -21,44 +21,24 @@
             }
           },
           {
-            "id": "5a25bafe366f1df8",
+            "id": "9954ca2c80ef5a92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mindfulness Journal.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "56d39003603c1f05",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "e1e91a862f80866c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "f3dd1ab1dccb244f",
         "type": "tabs",
-        "dimension": 46.63422546634226,
+        "dimension": 38.37429111531191,
         "children": [
           {
             "id": "3e1f203a1813c908",
@@ -153,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mindfulness Journal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mindfulness Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Mindfulness Journal.md"
               }
             }
           }
@@ -213,14 +193,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1e91a862f80866c",
+  "active": "9954ca2c80ef5a92",
   "lastOpenFiles": [
+    "Mindfulness Journal.md",
     "Information Architecture Strategy.md",
+    "Untitled.md",
     "Univariate Numerical Measure.md",
     "UX Data Analysis MOOC.md",
     "UX Data Analysis.md",
     "User Experience.md",
-    "Untitled.md",
     "10 Usability Heuristics.md",
     "Usability.md",
     "Information Architecture.md",
