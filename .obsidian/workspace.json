@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 61.62570888468808,
+        "dimension": 57.89473684210527,
         "children": [
           {
             "id": "1c185482513d3ba1",
@@ -37,7 +37,7 @@
       {
         "id": "f3dd1ab1dccb244f",
         "type": "tabs",
-        "dimension": 38.37429111531191,
+        "dimension": 42.10526315789473,
         "children": [
           {
             "id": "3e1f203a1813c908",
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200
   },
   "right": {
     "id": "66b3eba9d1e0a907",
@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mindfulness Journal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mindfulness Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,16 +169,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mindfulness Journal.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,14 +190,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c185482513d3ba1",
+  "active": "832ab1945747bdd4",
   "lastOpenFiles": [
+    "Mindfulness Journal.md",
     "Home Page.md",
     "Personal Development.md",
     "Untitled.md",
     "Card sorting.md",
     "Information Architecture Strategy.md",
-    "Mindfulness Journal.md",
     "User Research.md",
     "Univariate Numerical Measure.md",
     "UX Data Analysis MOOC.md",
