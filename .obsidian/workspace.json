@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Mindfulness Journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f3dd1ab1dccb244f",
@@ -105,7 +104,7 @@
             }
           },
           {
-            "id": "b9f471289cef7402",
+            "id": "9eddec554b430eb9",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -193,11 +192,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9f471289cef7402",
+  "active": "1c185482513d3ba1",
   "lastOpenFiles": [
-    "Mindfulness Journal.md",
-    "Information Architecture Strategy.md",
+    "Home Page.md",
+    "Personal Development.md",
     "Untitled.md",
+    "Card sorting.md",
+    "Information Architecture Strategy.md",
+    "Mindfulness Journal.md",
+    "User Research.md",
     "Univariate Numerical Measure.md",
     "UX Data Analysis MOOC.md",
     "UX Data Analysis.md",

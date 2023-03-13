@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Information Architecture Strategy",
-      "path": "Information Architecture Strategy.md"
-    },
-    {
       "basename": "Mindfulness Journal",
       "path": "Mindfulness Journal.md"
     },
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "Personal Development",
+      "path": "Personal Development.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
+    },
+    {
+      "basename": "Card sorting",
+      "path": "Card sorting.md"
+    },
+    {
+      "basename": "Information Architecture Strategy",
+      "path": "Information Architecture Strategy.md"
+    },
+    {
+      "basename": "User Research",
+      "path": "User Research.md"
     },
     {
       "basename": "Univariate Numerical Measure",
@@ -53,14 +69,6 @@
       "path": "The Principle of Objects.md"
     },
     {
-      "basename": "User Research",
-      "path": "User Research.md"
-    },
-    {
-      "basename": "Card sorting",
-      "path": "Card sorting.md"
-    },
-    {
       "basename": "The Principle of Exemplars",
       "path": "The Principle of Exemplars.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Empathize",
       "path": "Empathize.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "Building my UX Portfolio",
@@ -195,10 +199,6 @@
     {
       "basename": "Jakob's Law",
       "path": "Jakob's Law.md"
-    },
-    {
-      "basename": "Empathy Mapping",
-      "path": "Empathy Mapping.md"
     }
   ],
   "omittedPaths": [],

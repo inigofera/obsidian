@@ -35,3 +35,5 @@
 		4. Usability Testing
 			- How and why do users use a website or product?
 			- Reveals how users find information, which ways do they use it and which do they ignore or just don't use and why.
+
+#InfoArch 
