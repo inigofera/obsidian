@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 57.89473684210527,
+        "dimension": 50.47169811320755,
         "children": [
           {
             "id": "1c185482513d3ba1",
@@ -15,6 +15,18 @@
               "type": "markdown",
               "state": {
                 "file": "Mindfulness Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "695df2140fc78066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚All About Love - bell hooks.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,12 +44,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f3dd1ab1dccb244f",
         "type": "tabs",
-        "dimension": 42.10526315789473,
+        "dimension": 49.528301886792455,
         "children": [
           {
             "id": "3e1f203a1813c908",
@@ -132,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚All About Love - bell hooks.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📚All About Love - bell hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚All About Love - bell hooks.md"
+              }
             }
           }
         ],
@@ -190,8 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "832ab1945747bdd4",
+  "active": "695df2140fc78066",
   "lastOpenFiles": [
+    "📚Half-Earth Socialism.md",
+    "📚All About Love - bell hooks.md",
     "Mindfulness Journal.md",
     "Home Page.md",
     "Personal Development.md",
