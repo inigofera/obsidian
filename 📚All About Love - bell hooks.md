@@ -3,5 +3,6 @@
 - an act of [[Will]], both an intention and an action.
 - choice. We do not have to love. We choose to love.
 - care, affection, recognition, respect, commitment, trust, communication.
+- an action, rather than a feeling.
 
 #book 
