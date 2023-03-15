@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Attachment",
       "path": "Attachment.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "Mindfulness Journal",
       "path": "Mindfulness Journal.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     },
     {
       "basename": "Personal Development",
