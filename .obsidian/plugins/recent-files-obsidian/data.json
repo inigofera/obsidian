@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "The truth of the cause of suffering",
-      "path": "The truth of the cause of suffering.md"
+      "basename": "The truth of the path leading to the cessation of suffering",
+      "path": "The truth of the path leading to the cessation of suffering.md"
+    },
+    {
+      "basename": "The Noble Eightfold Path",
+      "path": "The Noble Eightfold Path.md"
     },
     {
       "basename": "Four Noble Truths",
       "path": "Four Noble Truths.md"
+    },
+    {
+      "basename": "The truth of the cessation of suffering",
+      "path": "The truth of the cessation of suffering.md"
+    },
+    {
+      "basename": "The truth of the cause of suffering",
+      "path": "The truth of the cause of suffering.md"
     },
     {
       "basename": "The truth of suffering",
@@ -19,10 +31,6 @@
     {
       "basename": "Buddhism",
       "path": "Buddhism.md"
-    },
-    {
-      "basename": "The Noble Eightfold Path",
-      "path": "The Noble Eightfold Path.md"
     },
     {
       "basename": "📚All About Love - bell hooks",
@@ -187,18 +195,6 @@
     {
       "basename": "Descriptive Statistics vs Statistical Inference",
       "path": "Descriptive Statistics vs Statistical Inference.md"
-    },
-    {
-      "basename": "Estimator",
-      "path": "Estimator.md"
-    },
-    {
-      "basename": "Chronbach's Alpha",
-      "path": "Chronbach's Alpha.md"
-    },
-    {
-      "basename": "Correlation",
-      "path": "Correlation.md"
     }
   ],
   "omittedPaths": [],
