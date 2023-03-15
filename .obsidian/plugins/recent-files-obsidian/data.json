@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The Noble Eightfold Path",
+      "path": "The Noble Eightfold Path.md"
+    },
+    {
+      "basename": "Buddhism",
+      "path": "Buddhism.md"
+    },
+    {
       "basename": "📚All About Love - bell hooks",
       "path": "📚All About Love - bell hooks.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Habit Stacking",
       "path": "Habit Stacking.md"
-    },
-    {
-      "basename": "Zettelkasten for Academic Writing",
-      "path": "Zettelkasten for Academic Writing.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "Zettelkasten.md"
     }
   ],
   "omittedPaths": [],

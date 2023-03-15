@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "9155d7601ac4081f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Noble Eightfold Path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9954ca2c80ef5a92",
             "type": "leaf",
             "state": {
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f3dd1ab1dccb244f",
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚All About Love - bell hooks.md",
+                "file": "The Noble Eightfold Path.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚All About Love - bell hooks.md",
+                "file": "The Noble Eightfold Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚All About Love - bell hooks.md"
+                "file": "The Noble Eightfold Path.md"
               }
             }
           }
@@ -207,10 +219,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "695df2140fc78066",
+  "active": "9155d7601ac4081f",
   "lastOpenFiles": [
-    "📚Half-Earth Socialism.md",
+    "Pasted image 20230315090120.png",
+    "Buddhism.md",
+    "The Noble Eightfold Path.md",
     "📚All About Love - bell hooks.md",
+    "📚Half-Earth Socialism.md",
     "Mindfulness Journal.md",
     "Home Page.md",
     "Personal Development.md",
