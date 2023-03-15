@@ -157,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The truth of the path leading to the cessation of suffering.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The truth of the path leading to the cessation of suffering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +194,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The truth of the path leading to the cessation of suffering.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -219,8 +215,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9155d7601ac4081f",
+  "active": "3e1f203a1813c908",
   "lastOpenFiles": [
+    "The truth of the path leading to the cessation of suffering.md",
+    "Users/inigo/Documents/obsidian/Microcopy in UX.md",
     "Users/inigo/Documents/obsidian/📰Is this really progress.md",
     "Users/inigo/Documents/obsidian/📚Half-Earth Socialism.md",
     "Users/inigo/Documents/obsidian/📚Atomic Habits.md",
@@ -246,8 +244,6 @@
     "Users/inigo/Documents/obsidian/Time Travel.md",
     "Users/inigo/Documents/obsidian/The Principle of Objects.md",
     "Users/inigo/Documents/obsidian/The Principle of Multiple Classification.md",
-    "Users/inigo/Documents/obsidian/The Principle of Growth.md",
-    "Users/inigo/Documents/obsidian/The Principle of Front Doors.md",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030173226.png",
