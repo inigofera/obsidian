@@ -4,4 +4,4 @@ Methods discussed in this book:
 - [[Habit Stacking]]
 - [[Temptation Bundling]]
 
-#Productivity
+#Productivity #book 

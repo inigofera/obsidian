@@ -10,4 +10,4 @@ Ultimately, renunciation is not about denying oneself pleasure or happiness, but
 
 [[Renunciation in the contemporary world]]
 
-[[Buddhism]]
+#Buddhism 

@@ -15,3 +15,5 @@ To free yourself from consumerist thoughts and tendencies and embrace moderation
 
 
 Embracing moderation is a gradual process that takes time and effort. Be patient and compassionate with yourself, and celebrate your progress along the way.
+
+#Buddhism 
