@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The truth of the path leading to the cessation of suffering (Magga).md",
+                "file": "Right View.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The truth of the path leading to the cessation of suffering (Magga).md",
+                "file": "Right View.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The truth of the path leading to the cessation of suffering (Magga).md",
+                "file": "Right View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The truth of the path leading to the cessation of suffering (Magga).md"
+                "file": "Right View.md"
               }
             }
           }
@@ -208,8 +208,9 @@
   },
   "active": "695df2140fc78066",
   "lastOpenFiles": [
-    "Four Noble Truths.md",
+    "The Noble Eightfold Path.md",
     "The truth of the path leading to the cessation of suffering (Magga).md",
+    "Four Noble Truths.md",
     "The truth of the cessation of suffering (Nirodha).md",
     "The truth of the cause of suffering (Samudaya).md",
     "Attachment.md",
@@ -217,7 +218,6 @@
     "The truth of suffering (Dukkha).md",
     "README.md",
     "Craving.md",
-    "The Noble Eightfold Path.md",
     "Right View.md",
     "Users/inigo/Documents/obsidian/The Principle of Choices.md",
     "Users/inigo/Documents/obsidian/Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
