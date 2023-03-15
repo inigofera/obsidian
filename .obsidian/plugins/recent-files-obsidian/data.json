@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "The truth of the cause of suffering",
+      "path": "The truth of the cause of suffering.md"
+    },
+    {
       "basename": "Four Noble Truths",
       "path": "Four Noble Truths.md"
+    },
+    {
+      "basename": "The truth of suffering",
+      "path": "The truth of suffering.md"
     },
     {
       "basename": "Right View",
@@ -191,14 +199,6 @@
     {
       "basename": "Correlation",
       "path": "Correlation.md"
-    },
-    {
-      "basename": "Power",
-      "path": "Power.md"
-    },
-    {
-      "basename": "Politics",
-      "path": "Politics.md"
     }
   ],
   "omittedPaths": [],

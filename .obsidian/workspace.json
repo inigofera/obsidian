@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Four Noble Truths.md",
+                "file": "The truth of the cause of suffering.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Four Noble Truths.md",
+                "file": "The truth of the cause of suffering.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Four Noble Truths.md",
+                "file": "The truth of the cause of suffering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Four Noble Truths.md"
+                "file": "The truth of the cause of suffering.md"
               }
             }
           }
@@ -221,8 +221,10 @@
   },
   "active": "9155d7601ac4081f",
   "lastOpenFiles": [
-    "Right View.md",
     "Four Noble Truths.md",
+    "The truth of the cause of suffering.md",
+    "The truth of suffering.md",
+    "Right View.md",
     "Buddhism.md",
     "The Noble Eightfold Path.md",
     "📚All About Love - bell hooks.md",
