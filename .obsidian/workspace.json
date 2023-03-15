@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Right View.md",
+                "file": "Non-self.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Right View.md",
+                "file": "Non-self.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Right View.md",
+                "file": "Non-self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Right View.md"
+                "file": "Non-self.md"
               }
             }
           }
@@ -208,6 +208,9 @@
   },
   "active": "695df2140fc78066",
   "lastOpenFiles": [
+    "Impermanence.md",
+    "Non-self.md",
+    "Right View.md",
     "The Noble Eightfold Path.md",
     "The truth of the path leading to the cessation of suffering (Magga).md",
     "Four Noble Truths.md",
@@ -218,7 +221,6 @@
     "The truth of suffering (Dukkha).md",
     "README.md",
     "Craving.md",
-    "Right View.md",
     "Users/inigo/Documents/obsidian/The Principle of Choices.md",
     "Users/inigo/Documents/obsidian/Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
     "Users/inigo/Documents/obsidian/The Principle of Objects.md",
@@ -233,8 +235,6 @@
     "Users/inigo/Documents/obsidian/📚Atomic Habits.md",
     "Users/inigo/Documents/obsidian/📚All About Love - bell hooks.md",
     "Users/inigo/Documents/obsidian/_config.yml",
-    "Users/inigo/Documents/obsidian/Zettlekasten Permanent Notes.md",
-    "Users/inigo/Documents/obsidian/Zettelkasten.md",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030173226.png",
