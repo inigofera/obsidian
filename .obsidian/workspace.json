@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Attachment.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Attachment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Attachment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Attachment.md"
               }
             }
           }
@@ -208,9 +208,10 @@
   },
   "active": "695df2140fc78066",
   "lastOpenFiles": [
+    "Craving.md",
+    "README.md",
     "Attachment.md",
     "The truth of the cause of suffering (Samudaya).md",
-    "Craving.md",
     "Four Noble Truths.md",
     "The truth of suffering (Dukkha).md",
     "The Noble Eightfold Path.md",
@@ -234,7 +235,6 @@
     "Users/inigo/Documents/obsidian/Zettelkasten.md",
     "Users/inigo/Documents/obsidian/Zettelkasten for Academic Writing.md",
     "Users/inigo/Documents/obsidian/Zettelkasten Smart Notes.md",
-    "Users/inigo/Documents/obsidian/Zettelkasten Literature Notes.md",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030173226.png",
