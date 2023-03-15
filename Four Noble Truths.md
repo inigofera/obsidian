@@ -1,6 +1,6 @@
 The Four Noble Truths are the central teachings of [[Buddhism]], and they form the foundation of the Buddha's teachings. The Four Noble Truths are as follows:
 
-1.  [[The truth of suffering]] (Dukkha): This truth recognizes that all sentient beings experience some level of suffering. Suffering can be physical or mental and can manifest as pain, frustration, anxiety, or dissatisfaction. The Buddha taught that suffering is a universal experience and that it arises from the impermanent, unsatisfactory, and uncontrollable nature of life.
+1.  [[The truth of suffering (dukkha)]]: This truth recognizes that all sentient beings experience some level of suffering. Suffering can be physical or mental and can manifest as pain, frustration, anxiety, or dissatisfaction. The Buddha taught that suffering is a universal experience and that it arises from the impermanent, unsatisfactory, and uncontrollable nature of life.
 
 2.  [[The truth of the cause of suffering]] (Samudaya): This truth teaches that the root cause of suffering is craving and attachment. Craving arises from a sense of dissatisfaction with the way things are, and it leads to attachment to things that are impermanent and ultimately unsatisfactory. The Buddha taught that this craving and attachment are the cause of all suffering.
 
