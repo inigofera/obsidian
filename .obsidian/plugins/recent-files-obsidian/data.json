@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Right View",
+      "path": "Right View.md"
+    },
+    {
       "basename": "The Noble Eightfold Path",
       "path": "The Noble Eightfold Path.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "📚Atomic Habits",
       "path": "📚Atomic Habits.md"
-    },
-    {
-      "basename": "Habit Stacking",
-      "path": "Habit Stacking.md"
     }
   ],
   "omittedPaths": [],
