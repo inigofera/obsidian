@@ -2,3 +2,7 @@ The Noble Eightfold Path is a central teaching in Buddhism. It represents a path
 
 ![[Pasted image 20230315090120.png]]
 
+Here are the Eight Pillars:
+1. [[Right View]]
+2. 
+3. 

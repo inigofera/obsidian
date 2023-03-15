@@ -1,6 +1,7 @@
 {
   "cssTheme": "",
-  "theme": "system",
+  "theme": "obsidian",
   "accentColor": "",
-  "baseFontSize": 10
+  "baseFontSize": 16,
+  "interfaceFontFamily": ""
 }
