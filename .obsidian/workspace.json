@@ -26,19 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚All About Love - bell hooks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9155d7601ac4081f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The truth of the path leading to the cessation of suffering.md",
+                "file": "Four Noble Truths.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f3dd1ab1dccb244f",
@@ -136,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Four Noble Truths.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Four Noble Truths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Four Noble Truths.md"
+              }
             }
           }
         ],
@@ -215,8 +206,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e1f203a1813c908",
+  "active": "695df2140fc78066",
   "lastOpenFiles": [
+    "Right View.md",
+    "The Noble Eightfold Path.md",
+    "Users/inigo/Documents/obsidian/The Principle of Choices.md",
+    "Users/inigo/Documents/obsidian/Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
+    "Users/inigo/Documents/obsidian/The Principle of Objects.md",
+    "Habit Stacking.md",
+    "Users/inigo/Documents/obsidian/The Principle of Exemplars.md",
+    "The Principle of Exemplars.md",
+    "Humanization of Nature.md",
+    "Users/inigo/Documents/obsidian/Humanization of Nature.md",
     "The truth of the path leading to the cessation of suffering.md",
     "Users/inigo/Documents/obsidian/Microcopy in UX.md",
     "Users/inigo/Documents/obsidian/📰Is this really progress.md",
@@ -234,16 +235,6 @@
     "Users/inigo/Documents/obsidian/User Experience.md",
     "Users/inigo/Documents/obsidian/Usability.md",
     "Users/inigo/Documents/obsidian/Urban Planning.md",
-    "Users/inigo/Documents/obsidian/Untitled.md",
-    "Users/inigo/Documents/obsidian/Univariate Numerical Measure.md",
-    "Users/inigo/Documents/obsidian/UX Writing.md",
-    "Users/inigo/Documents/obsidian/UX Writing Research.md",
-    "Users/inigo/Documents/obsidian/UX Data Analysis.md",
-    "Users/inigo/Documents/obsidian/UX Data Analysis MOOC.md",
-    "Users/inigo/Documents/obsidian/Transportation.md",
-    "Users/inigo/Documents/obsidian/Time Travel.md",
-    "Users/inigo/Documents/obsidian/The Principle of Objects.md",
-    "Users/inigo/Documents/obsidian/The Principle of Multiple Classification.md",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030173226.png",
