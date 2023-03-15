@@ -1,4 +1,4 @@
-First step on the Noble Eightfold Path in [[Buddhism]]. It is considered the foundation of the path as it lays the groundwork for understanding the nature of reality and the [[Four Noble Truths]].
+First step on [[The Noble Eightfold Path]] in Buddhism. It is considered the foundation of the path as it lays the groundwork for understanding the nature of reality and the [[Four Noble Truths]].
 
 Right View is essentially about understanding the world as it is, and recognizing the true nature of existence. It involves understanding the following:
 

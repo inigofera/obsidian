@@ -1,4 +1,4 @@
-One of the components of the Noble Eightfold Path in Buddhism. It refers to cultivating the right intentions or motivations in one's thoughts and actions, with the aim of reducing suffering and developing greater wisdom and compassion.
+One of the components of [[The Noble Eightfold Path]] in Buddhism. It refers to cultivating the right intentions or motivations in one's thoughts and actions, with the aim of reducing suffering and developing greater wisdom and compassion.
 
 In Buddhist teachings, the Right Intention path involves two main components:
 

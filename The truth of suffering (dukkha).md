@@ -1,4 +1,4 @@
-One of the [[Four Noble Truths]] of [[Buddhism]].
+One of the [[Four Noble Truths]] of Buddhism.
 
 This truth recognizes that all sentient beings experience some level of [[Suffering]].
 

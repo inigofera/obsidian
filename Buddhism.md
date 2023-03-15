@@ -1,4 +1,6 @@
-[[The Noble Eightfold Path]]
+[[Religion]] from India.
+
+Pillars: The [[Four Noble Truths]].
 
 
 #Buddhism
