@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Ignorance",
+      "path": "Ignorance.md"
+    },
+    {
+      "basename": "Four Noble Truths",
+      "path": "Four Noble Truths.md"
+    },
+    {
+      "basename": "The truth of the cause of suffering (Samudaya)",
+      "path": "The truth of the cause of suffering (Samudaya).md"
+    },
+    {
+      "basename": "Attachment",
+      "path": "Attachment.md"
+    },
+    {
+      "basename": "Craving",
+      "path": "Craving.md"
+    },
+    {
+      "basename": "The truth of suffering (Dukkha)",
+      "path": "The truth of suffering (Dukkha).md"
+    },
+    {
+      "basename": "Buddhism",
+      "path": "Buddhism.md"
+    },
+    {
+      "basename": "The Noble Eightfold Path",
+      "path": "The Noble Eightfold Path.md"
+    },
+    {
+      "basename": "Right Intention",
+      "path": "Right Intention.md"
+    },
+    {
       "basename": "The Four Immeasurables",
       "path": "The Four Immeasurables.md"
+    },
+    {
+      "basename": "Christianity",
+      "path": "Christianity.md"
     },
     {
       "basename": "Compassion",
@@ -25,10 +65,6 @@
       "path": "Moderation in the contemporary world.md"
     },
     {
-      "basename": "The Noble Eightfold Path",
-      "path": "The Noble Eightfold Path.md"
-    },
-    {
       "basename": "📰Is this really progress",
       "path": "📰Is this really progress.md"
     },
@@ -49,32 +85,12 @@
       "path": "Moderation.md"
     },
     {
-      "basename": "Right Intention",
-      "path": "Right Intention.md"
-    },
-    {
       "basename": "The truth of the path leading to the cessation of suffering (Magga)",
       "path": "The truth of the path leading to the cessation of suffering (Magga).md"
     },
     {
-      "basename": "Four Noble Truths",
-      "path": "Four Noble Truths.md"
-    },
-    {
-      "basename": "Buddhism",
-      "path": "Buddhism.md"
-    },
-    {
       "basename": "Right View",
       "path": "Right View.md"
-    },
-    {
-      "basename": "The truth of suffering (Dukkha)",
-      "path": "The truth of suffering (Dukkha).md"
-    },
-    {
-      "basename": "The truth of the cause of suffering (Samudaya)",
-      "path": "The truth of the cause of suffering (Samudaya).md"
     },
     {
       "basename": "The truth of the cessation of suffering (Nirodha)",
@@ -97,20 +113,8 @@
       "path": "Non-self.md"
     },
     {
-      "basename": "Attachment",
-      "path": "Attachment.md"
-    },
-    {
-      "basename": "Ignorance",
-      "path": "Ignorance.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Craving",
-      "path": "Craving.md"
     },
     {
       "basename": "Habit Stacking",
@@ -195,10 +199,6 @@
     {
       "basename": "The Principle of Multiple Classification",
       "path": "The Principle of Multiple Classification.md"
-    },
-    {
-      "basename": "The Principle of Growth",
-      "path": "The Principle of Growth.md"
     }
   ],
   "omittedPaths": [],

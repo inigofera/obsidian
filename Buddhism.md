@@ -3,4 +3,4 @@
 Pillars: The [[Four Noble Truths]].
 
 
-#Buddhism
+#Buddhism #Spirituality 
