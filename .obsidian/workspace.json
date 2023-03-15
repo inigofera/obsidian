@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Four Noble Truths.md",
+                "file": "The truth of the path leading to the cessation of suffering (Magga).md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Four Noble Truths.md",
+                "file": "The truth of the path leading to the cessation of suffering (Magga).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Four Noble Truths.md",
+                "file": "The truth of the path leading to the cessation of suffering (Magga).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Four Noble Truths.md"
+                "file": "The truth of the path leading to the cessation of suffering (Magga).md"
               }
             }
           }
@@ -208,12 +208,15 @@
   },
   "active": "695df2140fc78066",
   "lastOpenFiles": [
+    "Four Noble Truths.md",
+    "The truth of the path leading to the cessation of suffering (Magga).md",
+    "The truth of the cessation of suffering (Nirodha).md",
+    "The truth of the cause of suffering (Samudaya).md",
+    "Attachment.md",
+    "Ignorance.md",
+    "The truth of suffering (Dukkha).md",
     "README.md",
     "Craving.md",
-    "Attachment.md",
-    "The truth of the cause of suffering (Samudaya).md",
-    "Four Noble Truths.md",
-    "The truth of suffering (Dukkha).md",
     "The Noble Eightfold Path.md",
     "Right View.md",
     "Users/inigo/Documents/obsidian/The Principle of Choices.md",
@@ -224,7 +227,6 @@
     "The Principle of Exemplars.md",
     "Humanization of Nature.md",
     "Users/inigo/Documents/obsidian/Humanization of Nature.md",
-    "The truth of the path leading to the cessation of suffering.md",
     "Users/inigo/Documents/obsidian/Microcopy in UX.md",
     "Users/inigo/Documents/obsidian/📰Is this really progress.md",
     "Users/inigo/Documents/obsidian/📚Half-Earth Socialism.md",
@@ -233,8 +235,6 @@
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Zettlekasten Permanent Notes.md",
     "Users/inigo/Documents/obsidian/Zettelkasten.md",
-    "Users/inigo/Documents/obsidian/Zettelkasten for Academic Writing.md",
-    "Users/inigo/Documents/obsidian/Zettelkasten Smart Notes.md",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030173226.png",
