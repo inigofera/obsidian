@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Four Noble Truths",
+      "path": "Four Noble Truths.md"
+    },
+    {
       "basename": "Right View",
       "path": "Right View.md"
+    },
+    {
+      "basename": "Buddhism",
+      "path": "Buddhism.md"
     },
     {
       "basename": "The Noble Eightfold Path",
@@ -11,10 +19,6 @@
     {
       "basename": "📚All About Love - bell hooks",
       "path": "📚All About Love - bell hooks.md"
-    },
-    {
-      "basename": "Buddhism",
-      "path": "Buddhism.md"
     },
     {
       "basename": "📚Half-Earth Socialism",
@@ -195,10 +199,6 @@
     {
       "basename": "Politics",
       "path": "Politics.md"
-    },
-    {
-      "basename": "📚Atomic Habits",
-      "path": "📚Atomic Habits.md"
     }
   ],
   "omittedPaths": [],
