@@ -7,3 +7,5 @@ Instead, the self is seen as a composite of various mental and physical processe
 The realization of non-self is seen as a liberating insight that can help to reduce attachment, craving, and suffering. By understanding that there is no fixed or permanent self, we can learn to let go of our attachment to our ego-centered concerns, and develop a greater sense of interconnectedness with all beings and phenomena.
 
 The concept of non-self is closely related to the Buddhist teaching of dependent origination, which explains how all things arise in dependence on other factors, and that nothing exists independently or in isolation. Together, these teachings help to develop a more holistic and integrated understanding of reality, and provide a framework for living a more compassionate and awakened life.
+
+#Buddhism 

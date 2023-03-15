@@ -7,3 +7,5 @@ Impermanence is considered one of the three universal characteristics of existen
 The realization of impermanence is said to be a transformative experience that can lead to greater wisdom and insight into the nature of reality. Through the practice of mindfulness and meditation, we can learn to observe and accept the impermanence of all phenomena, and develop a greater appreciation for the present moment.
 
 In Buddhism, impermanence is not seen as a negative or pessimistic view of the world, but rather as a liberating and empowering insight. By recognizing the transitory nature of all things, we can let go of our attachment to them, and live more fully and freely in the present moment.
+
+#Buddhism 

@@ -3,7 +3,7 @@ The Noble Eightfold Path is a central teaching in Buddhism. It represents a path
 ![[Pasted image 20230315090120.png]]
 
 1.  [[Right View]] - understanding the Four Noble Truths and the nature of reality
-2.  Right Intention - developing positive intentions and thoughts
+2.  [[Right Intention]] - developing positive intentions and thoughts
 3.  Right Speech - speaking truthfully and kindly
 4.  Right Action - acting ethically and harmlessly
 5.  Right Livelihood - earning a living in a way that is morally sound

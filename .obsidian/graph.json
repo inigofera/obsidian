@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "tag:#Buddhism",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 11.9166666666667,
   "linkStrength": 0.670833333333333,
   "linkDistance": 198,
-  "scale": 1.4022448372296628,
+  "scale": 0.8390250388196726,
   "close": true
 }

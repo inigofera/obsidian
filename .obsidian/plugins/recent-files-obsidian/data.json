@@ -1,36 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Non-self",
-      "path": "Non-self.md"
-    },
-    {
-      "basename": "Impermanence",
-      "path": "Impermanence.md"
-    },
-    {
-      "basename": "Right View",
-      "path": "Right View.md"
-    },
-    {
-      "basename": "The Noble Eightfold Path",
-      "path": "The Noble Eightfold Path.md"
-    },
-    {
-      "basename": "The truth of the path leading to the cessation of suffering (Magga)",
-      "path": "The truth of the path leading to the cessation of suffering (Magga).md"
-    },
-    {
-      "basename": "Four Noble Truths",
-      "path": "Four Noble Truths.md"
+      "basename": "The truth of the cause of suffering (Samudaya)",
+      "path": "The truth of the cause of suffering (Samudaya).md"
     },
     {
       "basename": "The truth of the cessation of suffering (Nirodha)",
       "path": "The truth of the cessation of suffering (Nirodha).md"
     },
     {
-      "basename": "The truth of the cause of suffering (Samudaya)",
-      "path": "The truth of the cause of suffering (Samudaya).md"
+      "basename": "The truth of the path leading to the cessation of suffering (Magga)",
+      "path": "The truth of the path leading to the cessation of suffering (Magga).md"
+    },
+    {
+      "basename": "Right Intention",
+      "path": "Right Intention.md"
+    },
+    {
+      "basename": "The Noble Eightfold Path",
+      "path": "The Noble Eightfold Path.md"
+    },
+    {
+      "basename": "Right View",
+      "path": "Right View.md"
+    },
+    {
+      "basename": "The truth of suffering (Dukkha)",
+      "path": "The truth of suffering (Dukkha).md"
+    },
+    {
+      "basename": "Suffering",
+      "path": "Suffering.md"
+    },
+    {
+      "basename": "Detachment",
+      "path": "Detachment.md"
+    },
+    {
+      "basename": "Impermanence",
+      "path": "Impermanence.md"
+    },
+    {
+      "basename": "Non-self",
+      "path": "Non-self.md"
+    },
+    {
+      "basename": "Four Noble Truths",
+      "path": "Four Noble Truths.md"
     },
     {
       "basename": "Attachment",
@@ -39,10 +55,6 @@
     {
       "basename": "Ignorance",
       "path": "Ignorance.md"
-    },
-    {
-      "basename": "The truth of suffering (Dukkha)",
-      "path": "The truth of suffering (Dukkha).md"
     },
     {
       "basename": "README",
@@ -187,14 +199,6 @@
     {
       "basename": "Data-Driven Design",
       "path": "Data-Driven Design.md"
-    },
-    {
-      "basename": "Design Thinking",
-      "path": "Design Thinking.md"
-    },
-    {
-      "basename": "UX Writing Research",
-      "path": "UX Writing Research.md"
     }
   ],
   "omittedPaths": [],

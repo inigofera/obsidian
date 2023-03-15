@@ -9,43 +9,18 @@
         "dimension": 50.47169811320755,
         "children": [
           {
-            "id": "1c185482513d3ba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindfulness Journal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "695df2140fc78066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-self.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9954ca2c80ef5a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindfulness Journal.md",
+                "file": "The truth of the cause of suffering (Samudaya).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f3dd1ab1dccb244f",
@@ -144,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-self.md",
+                "file": "The truth of the cause of suffering (Samudaya).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Non-self.md",
+                "file": "The truth of the cause of suffering (Samudaya).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Non-self.md"
+                "file": "The truth of the cause of suffering (Samudaya).md"
               }
             }
           }
@@ -208,17 +183,20 @@
   },
   "active": "695df2140fc78066",
   "lastOpenFiles": [
-    "Impermanence.md",
-    "Non-self.md",
-    "Right View.md",
-    "The Noble Eightfold Path.md",
-    "The truth of the path leading to the cessation of suffering (Magga).md",
-    "Four Noble Truths.md",
     "The truth of the cessation of suffering (Nirodha).md",
     "The truth of the cause of suffering (Samudaya).md",
+    "The truth of the path leading to the cessation of suffering (Magga).md",
+    "Right Intention.md",
+    "The Noble Eightfold Path.md",
+    "Right View.md",
+    "The truth of suffering (Dukkha).md",
+    "Suffering.md",
+    "Detachment.md",
+    "Impermanence.md",
+    "Non-self.md",
+    "Four Noble Truths.md",
     "Attachment.md",
     "Ignorance.md",
-    "The truth of suffering (Dukkha).md",
     "README.md",
     "Craving.md",
     "Users/inigo/Documents/obsidian/The Principle of Choices.md",
@@ -231,9 +209,6 @@
     "Users/inigo/Documents/obsidian/Humanization of Nature.md",
     "Users/inigo/Documents/obsidian/Microcopy in UX.md",
     "Users/inigo/Documents/obsidian/📰Is this really progress.md",
-    "Users/inigo/Documents/obsidian/📚Half-Earth Socialism.md",
-    "Users/inigo/Documents/obsidian/📚Atomic Habits.md",
-    "Users/inigo/Documents/obsidian/📚All About Love - bell hooks.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",

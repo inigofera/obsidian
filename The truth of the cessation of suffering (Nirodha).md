@@ -1,4 +1,4 @@
-One of the [[Four Noble Truths]] of [[Buddhism]].
+One of the [[Four Noble Truths]] of Buddhism.
 
 This truth teaches that it is possible to end suffering by letting go of [[Craving]], [[Ignorance]] and [[Attachment]]. The Buddha taught that it is possible to attain a state of peace and happiness by developing [[Detachment]], and by cultivating wisdom and compassion. This means that if we can eliminate these causes, we can put an end to the cycle of suffering and attain a state of lasting peace and happiness.
 
