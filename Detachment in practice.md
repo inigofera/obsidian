@@ -16,7 +16,10 @@ Is there anything that remains when I strip your life of your work and your deep
 Types of Detachment:
 
 1. **Detachment from Material Goals:** There are too many people who are too attached to the things they own and too addicted to buying and hoarding more and more things without asking this one simple question — **“Is it important enough?”**. When you detach yourself from the compulsion of owning things just for the sake of owning them, you begin to experience real freedom and joy from things that really matter. Take a step back to understand what things add value to your lives. By clearing the clutter from life’s path, we can all make room for the most important aspects of life: health, relationships, passion, growth, and contribution.
+
 2. **Detachment in Relationships:** Most people struggle the most with this aspect of detachment and it’s only natural. Most of us misunderstand love to be all about really holding on to the other person, trying to fix them and taking care of them in all ways possible, even if it comes at the cost of neglecting your own well being. It gets even worse when we let our lives revolve around certain relationships. Detachment is needed so that you do not take everything personally because you don’t control their reactions. Detachment is needed so that you don’t seek their validation to the extent that your own opinions start to diminish. Detachment is needed to understand that love is about acceptance and not about control. It is needed to understand that **you alone are the master of your own lives and you need to draw boundaries so that others don’t control you.**
+
+3. Detachment from Experiences: **It’s one thing to take the learnings from an experience and move further in life with new wisdom and it’s totally another thing to carry the bitterness, guilt and regret over the past experiences and letting them taint your present days.**  This often happens when we fail to completely accept and let go our bad experiences. When something bad happens, feel free to feel the pain, grieve and let go. Only through acceptance, you can free yourself from the weight and detach yourself from it.
 
 
 
