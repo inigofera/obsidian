@@ -21,6 +21,10 @@ Types of Detachment:
 
 3. **Detachment from Experiences:** _It’s one thing to take the learnings from an experience and move further in life with new wisdom and it’s totally another thing to carry the bitterness, guilt and regret over the past experiences and letting them taint your present days._  This often happens when we fail to completely accept and let go our bad experiences. When something bad happens, feel free to feel the pain, grieve and let go. Only through acceptance, you can free yourself from the weight and detach yourself from it.
 
+4. Detachment from Work: Detachment from work means that when you leave your workplace you leave your work related worries there. Detachment from work means that you do not define your personal worth too closely to your performance at your workplace or to the validation that you receive at work. **Detachment from work means that you do not rely on work alone to give you a feeling of completeness and to provide a meaning to your life.**
+
+5. Detachment from your own Thoughts: Very few of us are able to take a step back to exercise a certain amount of control over our thoughts. It turns into a problem when we confuse our thoughts with feelings and end up taking actions on impulse. Somehow, we conclude that every thought needs to be acted upon and it doesn’t turn out very well. Detachment from thoughts, often practiced through meditation till it becomes a usual practice, allows you to **look at your thoughts as an outsider, letting them come and go without allowing yourself to feel too much about them.** This allows you to practice a certain amount of detachment and you begin to see that **not all thoughts are important**. You realise that most of them are just clouding your head and it will be best to free yourself from them. **Our thoughts are just thoughts. They are not the ultimate truth or reality.** With practice, your turbulent thoughts and negative emotions will lose their grip on your mind. They will not be able to drive you or distort your inner potential and well being.
+
 
 
 #Buddhism #SelfImprovement 
