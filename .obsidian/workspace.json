@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Detachment in practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Detachment in practice.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Detachment in practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Architecture Strategy.md"
+                "file": "Detachment in practice.md"
               }
             }
           }
@@ -181,8 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce646dab5c3a8755",
+  "active": "695df2140fc78066",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Detachment in practice.md",
+    "Detachment.md",
+    "Information Architecture Strategy.md",
     "Ignorance.md",
     "Four Noble Truths.md",
     "The truth of the cause of suffering (Samudaya).md",
@@ -205,10 +209,6 @@
     "📚Atomic Habits.md",
     "Moderation.md",
     "The truth of the path leading to the cessation of suffering (Magga).md",
-    "Right View.md",
-    "The truth of the cessation of suffering (Nirodha).md",
-    "Suffering.md",
-    "Detachment.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",

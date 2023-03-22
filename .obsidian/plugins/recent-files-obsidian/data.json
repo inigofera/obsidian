@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Detachment in practice",
+      "path": "Detachment in practice.md"
+    },
+    {
+      "basename": "Detachment",
+      "path": "Detachment.md"
+    },
+    {
       "basename": "Information Architecture Strategy",
       "path": "Information Architecture Strategy.md"
     },
@@ -105,10 +113,6 @@
       "path": "Suffering.md"
     },
     {
-      "basename": "Detachment",
-      "path": "Detachment.md"
-    },
-    {
       "basename": "Impermanence",
       "path": "Impermanence.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "Personal Development",
       "path": "Personal Development.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Card sorting",
@@ -195,10 +195,6 @@
     {
       "basename": "The Principle of Front Doors",
       "path": "The Principle of Front Doors.md"
-    },
-    {
-      "basename": "The Principle of Multiple Classification",
-      "path": "The Principle of Multiple Classification.md"
     }
   ],
   "omittedPaths": [],
