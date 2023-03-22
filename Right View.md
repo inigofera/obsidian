@@ -1,8 +1,8 @@
-First step on [[The Noble Eightfold Path]] in Buddhism. It is considered the foundation of the path as it lays the groundwork for understanding the nature of reality and the [[Four Noble Truths]].
+First step on [[The Noble Eightfold Path]] in Buddhism. It is considered the foundation of the path as it lays the groundwork for understanding the nature of reality and the Four Noble Truths.
 
 Right View is essentially about understanding the world as it is, and recognizing the true nature of existence. It involves understanding the following:
 
-1.  The [[Four Noble Truths]] - the truth of suffering, the truth of the cause of suffering, the truth of the cessation of suffering, and the truth of the path leading to the cessation of suffering.
+1.  The Four Noble Truths - the truth of suffering, the truth of the cause of suffering, the truth of the cessation of suffering, and the truth of the path leading to the cessation of suffering.
 
 2.  The law of [[Karma]] - the understanding that actions have consequences, and that good actions lead to positive outcomes and bad actions lead to negative outcomes.
 

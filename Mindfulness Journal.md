@@ -1,6 +1,8 @@
 An attempt to live a life with more [[Mindfulness]].
 
 ### What am i grateful for?
+
+06/03/23
 - I am extremely grateful for having the privilege to explore my hobbies and interests.
 	- I am grateful to be healthy enough, physically and mentally, to explore so many new things freely.
 	- I am grateful that my financial situation allows me to afford all my hobbies.
@@ -10,5 +12,9 @@ An attempt to live a life with more [[Mindfulness]].
 - I am grateful to my mom, who is and will always be there for me.
 - I am grateful for my physical ability to perform all kinds of sports.
 
+22/03/23
+- I am very grateful for my friends, who accept me for who I am and see through my shortsightedness.
+- I am grateful for the growth I am experiencing as a person lately.
+- 
 
 #PersonalDevelopment 
