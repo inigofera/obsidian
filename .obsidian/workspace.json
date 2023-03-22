@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 50.47169811320755,
+        "dimension": 67.42671009771986,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -25,7 +25,7 @@
       {
         "id": "f3dd1ab1dccb244f",
         "type": "tabs",
-        "dimension": 49.52830188679245,
+        "dimension": 32.57328990228013,
         "children": [
           {
             "id": "3e1f203a1813c908",
@@ -120,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detachment in practice.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Detachment in practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Detachment in practice.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "695df2140fc78066",
+  "active": "3e1f203a1813c908",
   "lastOpenFiles": [
-    "Untitled.md",
     "Detachment in practice.md",
+    "Untitled.md",
     "Detachment.md",
     "Information Architecture Strategy.md",
     "Ignorance.md",
