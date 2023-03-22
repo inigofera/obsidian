@@ -25,6 +25,8 @@ Types of Detachment:
 
 5. Detachment from your own Thoughts: Very few of us are able to take a step back to exercise a certain amount of control over our thoughts. It turns into a problem when we confuse our thoughts with feelings and end up taking actions on impulse. Somehow, we conclude that every thought needs to be acted upon and it doesn’t turn out very well. Detachment from thoughts, often practiced through meditation till it becomes a usual practice, allows you to **look at your thoughts as an outsider, letting them come and go without allowing yourself to feel too much about them.** This allows you to practice a certain amount of detachment and you begin to see that **not all thoughts are important**. You realise that most of them are just clouding your head and it will be best to free yourself from them. **Our thoughts are just thoughts. They are not the ultimate truth or reality.** With practice, your turbulent thoughts and negative emotions will lose their grip on your mind. They will not be able to drive you or distort your inner potential and well being.
 
+6. Detachment from Time: A lot of our anxieties are caused by thoughts of not having enough time for all that we want to do. We have huge plans for months and even years whose enormity makes it difficult for us to live our present time in the best way possible today, the only time we have in hand for sure. Detachment from sense of time can help you become aware of the transient nature of our lives and help you become more and more peaceful as you understand that the only time you have control over is now, this present moment. All that has passed before and all that is coming ahead is immaterial.
 
 
-#Buddhism #SelfImprovement 
+
+#Buddhism #SelfImprovement #article

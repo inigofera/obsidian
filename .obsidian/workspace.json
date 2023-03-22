@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detachment in practice.md",
+                "file": "📰Is this really progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📰Is this really progress.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📰Is this really progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📰Is this really progress.md"
+              }
             }
           }
         ]
@@ -177,9 +181,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e1f203a1813c908",
+  "active": "695df2140fc78066",
   "lastOpenFiles": [
-    "Detachment in practice.md",
+    "📰Detachment in practice.md",
     "Untitled.md",
     "Detachment.md",
     "Information Architecture Strategy.md",
