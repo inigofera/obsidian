@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Comics I could make.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Comics I could make.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Architecture Strategy.md",
+                "file": "Comics I could make.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Architecture Strategy.md"
+                "file": "Comics I could make.md"
               }
             }
           }
@@ -195,9 +195,10 @@
   },
   "active": "bca7c83459611b3e",
   "lastOpenFiles": [
+    "Information Architecture Strategy.md",
     "Microcopy in UX.md",
     "A Taste of UX Writing MOOC.md",
-    "Comic - The Answer is not in a Hut in the middle of Nowhere.md",
+    "Comics I could make.md",
     "Knowledge Management System.md",
     "Jakob's Law.md",
     "Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
@@ -208,7 +209,6 @@
     "📰Is this really progress.md",
     "📰Detachment in practice.md",
     "Detachment.md",
-    "Information Architecture Strategy.md",
     "Ignorance.md",
     "Four Noble Truths.md",
     "The truth of the cause of suffering (Samudaya).md",
