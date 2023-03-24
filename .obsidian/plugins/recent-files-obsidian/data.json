@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Information Architecture Strategy",
+      "path": "Information Architecture Strategy.md"
+    },
+    {
       "basename": "Microcopy in UX",
       "path": "Microcopy in UX.md"
+    },
+    {
+      "basename": "A Taste of UX Writing MOOC",
+      "path": "A Taste of UX Writing MOOC.md"
+    },
+    {
+      "basename": "Comic - The Answer is not in a Hut in the middle of Nowhere",
+      "path": "Comic - The Answer is not in a Hut in the middle of Nowhere.md"
     },
     {
       "basename": "Knowledge Management System",
@@ -43,10 +55,6 @@
     {
       "basename": "Detachment",
       "path": "Detachment.md"
-    },
-    {
-      "basename": "Information Architecture Strategy",
-      "path": "Information Architecture Strategy.md"
     },
     {
       "basename": "Ignorance",
@@ -191,14 +199,6 @@
     {
       "basename": "Usability",
       "path": "Usability.md"
-    },
-    {
-      "basename": "Information Architecture",
-      "path": "Information Architecture.md"
-    },
-    {
-      "basename": "Eight Principles of Information Architecture",
-      "path": "Eight Principles of Information Architecture.md"
     }
   ],
   "omittedPaths": [],

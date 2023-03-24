@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bca7c83459611b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Architecture Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f3dd1ab1dccb244f",
@@ -119,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Information Architecture Strategy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Information Architecture Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Information Architecture Strategy.md"
+              }
             }
           }
         ]
@@ -176,9 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e1f203a1813c908",
+  "active": "bca7c83459611b3e",
   "lastOpenFiles": [
     "Microcopy in UX.md",
+    "A Taste of UX Writing MOOC.md",
+    "Comic - The Answer is not in a Hut in the middle of Nowhere.md",
     "Knowledge Management System.md",
     "Jakob's Law.md",
     "Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
@@ -188,7 +207,6 @@
     "Right View.md",
     "📰Is this really progress.md",
     "📰Detachment in practice.md",
-    "Untitled.md",
     "Detachment.md",
     "Information Architecture Strategy.md",
     "Ignorance.md",
@@ -203,7 +221,6 @@
     "The Four Immeasurables.md",
     "Christianity.md",
     "Compassion.md",
-    "Renunciation in the contemporary world.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
