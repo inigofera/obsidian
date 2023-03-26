@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slow Living is not a Capitalist Trend.md",
+                "file": "📚All About Love.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slow Living is not a Capitalist Trend.md",
+                "file": "📚All About Love.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slow Living is not a Capitalist Trend.md",
+                "file": "📚All About Love.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slow Living is not a Capitalist Trend.md"
+                "file": "📚All About Love.md"
               }
             }
           }
@@ -207,8 +207,10 @@
   },
   "active": "3d3f2d2e08fa53d7",
   "lastOpenFiles": [
-    "Comics I could make.md",
+    "Love.md",
+    "📚All About Love.md",
     "Slow Living is not a Capitalist Trend.md",
+    "Comics I could make.md",
     "Information Architecture Strategy.md",
     "Microcopy in UX.md",
     "A Taste of UX Writing MOOC.md",
@@ -231,8 +233,6 @@
     "Buddhism.md",
     "The Noble Eightfold Path.md",
     "Right Intention.md",
-    "The Four Immeasurables.md",
-    "Christianity.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
