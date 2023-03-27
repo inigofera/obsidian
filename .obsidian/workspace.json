@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "887b798209e6ba5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📰The End of the Road to Serfdom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f3dd1ab1dccb244f",
@@ -144,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📰The End of the Road to Serfdom.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📰The End of the Road to Serfdom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📰The End of the Road to Serfdom.md"
+              }
             }
           }
         ]
@@ -201,8 +217,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e1f203a1813c908",
+  "active": "887b798209e6ba5d",
   "lastOpenFiles": [
+    "📰Is this really progress.md",
+    "📰The End of the Road to Serfdom.md",
     "📚All About Love.md",
     "Power.md",
     "Love.md",
@@ -218,7 +236,6 @@
     "Mindfulness.md",
     "Renunciation.md",
     "Right View.md",
-    "📰Is this really progress.md",
     "📰Detachment in practice.md",
     "Detachment.md",
     "Ignorance.md",
@@ -228,7 +245,6 @@
     "Craving.md",
     "The truth of suffering (Dukkha).md",
     "Buddhism.md",
-    "The Noble Eightfold Path.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
