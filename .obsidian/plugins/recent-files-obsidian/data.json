@@ -5,6 +5,10 @@
       "path": "📚All About Love.md"
     },
     {
+      "basename": "Power",
+      "path": "Power.md"
+    },
+    {
       "basename": "Love",
       "path": "Love.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UX Data Analysis",
       "path": "UX Data Analysis.md"
-    },
-    {
-      "basename": "User Experience",
-      "path": "User Experience.md"
     }
   ],
   "omittedPaths": [],

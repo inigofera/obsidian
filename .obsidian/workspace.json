@@ -144,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚All About Love.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚All About Love.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📚All About Love.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -205,10 +201,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d3f2d2e08fa53d7",
+  "active": "3e1f203a1813c908",
   "lastOpenFiles": [
-    "Love.md",
     "📚All About Love.md",
+    "Power.md",
+    "Love.md",
     "Slow Living is not a Capitalist Trend.md",
     "Comics I could make.md",
     "Information Architecture Strategy.md",
@@ -232,7 +229,6 @@
     "The truth of suffering (Dukkha).md",
     "Buddhism.md",
     "The Noble Eightfold Path.md",
-    "Right Intention.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
