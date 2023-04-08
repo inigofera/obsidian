@@ -129,14 +129,15 @@
             }
           },
           {
-            "id": "ce646dab5c3a8755",
+            "id": "529dffb03afcb207",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -217,7 +218,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "887b798209e6ba5d",
+  "active": "529dffb03afcb207",
   "lastOpenFiles": [
     "📰The End of the Road to Serfdom.md",
     "📰Is this really progress.md",
