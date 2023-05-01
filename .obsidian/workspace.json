@@ -6,7 +6,6 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 67.42671009771986,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -55,26 +54,33 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "f3dd1ab1dccb244f",
-        "type": "tabs",
-        "dimension": 32.57328990228013,
-        "children": [
+          },
           {
-            "id": "3e1f203a1813c908",
+            "id": "e06e8ecb9ce98c6f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "📚The Will to Change. Men, Masculinity, and Love.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "654211cbd5601628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -129,7 +135,7 @@
             }
           },
           {
-            "id": "f161b279d03e6ad8",
+            "id": "91dcb14df8727da8",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -157,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microcopy in UX.md",
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microcopy in UX.md",
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microcopy in UX.md"
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md"
               }
             }
           }
@@ -218,17 +224,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f161b279d03e6ad8",
+  "active": "654211cbd5601628",
   "lastOpenFiles": [
-    "📰The End of the Road to Serfdom.md",
     "📰Is this really progress.md",
+    "📰Detachment in practice.md",
+    "📰How climbing made me acknowledge my toxic relationship with myself.md",
+    "📚The Will to Change. Men, Masculinity, and Love.md",
     "📚All About Love.md",
+    "Microcopy in UX.md",
+    "📰The End of the Road to Serfdom.md",
     "Power.md",
     "Love.md",
     "Slow Living is not a Capitalist Trend.md",
     "Comics I could make.md",
     "Information Architecture Strategy.md",
-    "Microcopy in UX.md",
     "A Taste of UX Writing MOOC.md",
     "Knowledge Management System.md",
     "Jakob's Law.md",
@@ -237,15 +246,12 @@
     "Mindfulness.md",
     "Renunciation.md",
     "Right View.md",
-    "📰Detachment in practice.md",
     "Detachment.md",
     "Ignorance.md",
     "Four Noble Truths.md",
     "The truth of the cause of suffering (Samudaya).md",
     "Attachment.md",
     "Craving.md",
-    "The truth of suffering (Dukkha).md",
-    "Buddhism.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",

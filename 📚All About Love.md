@@ -1,4 +1,4 @@
-Written by bell hooks.
+Written by [[bell hooks]].
 
 [[Love]] is...
 - the will to extend one's self for the purpose of nurturing one's own or another's spiritual growth.
