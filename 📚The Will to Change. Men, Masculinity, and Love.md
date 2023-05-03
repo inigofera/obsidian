@@ -12,7 +12,7 @@ Men expect sex to provide them with the emotional fulfillment that only love can
 
 Addictive sexuality in men goes deeper than the need for sexual pleasure. It is rooted in a constant need to find selfhood as a man. To experience selfhood. The more intense the pain of fear, unworthiness and feeling unlovable is, the more obsessive the need to have sexual interactions is.
 
-Women getting in the workplace has robbed men of taking pride in being the providers / having economic authority and has caused a "masculinity crisis" within the patriarchal though framework.
+Women getting in the workplace has robbed men of taking pride in being the providers / having economic authority and has caused a "masculinity crisis" within the patriarchal though framework. But in reality, it has also made women feel more entitled to respect within the household. It has shifted the power dynamics.
 
 
 
