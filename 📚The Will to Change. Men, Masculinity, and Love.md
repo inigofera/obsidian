@@ -14,6 +14,6 @@ Addictive sexuality in men goes deeper than the need for sexual pleasure. It is 
 
 Women getting in the workplace has robbed men of taking pride in being the providers / having economic authority and has caused a "masculinity crisis" within the patriarchal though framework. But in reality, it has also made women feel more entitled to respect within the household. It has shifted the power dynamics.
 
-
+It is imperative for feminism to restore masculinit
 
 #book
