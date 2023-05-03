@@ -6,5 +6,6 @@
 - Exposed to talent on the Internet
 - Comparing myself to those around me
 - Ask parents about it?
+- Where did I learn about one-upmanship, toxic competition...?
 
 #article #SelfImprovement 
