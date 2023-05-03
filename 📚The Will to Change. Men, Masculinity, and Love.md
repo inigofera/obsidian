@@ -10,4 +10,6 @@ Violence is the easiest, cheapest way to assert manhood. When men cannot show th
 
 Men expect sex to provide them with the emotional fulfillment that only love can give them.
 
+Addictive sexuality in men goes deeper than the need for sexual pleasure. It is rooted in a constant need to find selfhood as a man. To experience selfhood. The more intense the pain of fear, unworthiness and feeling unlovable is, the more obsessive the need to have sexual interactions is.
+
 #book
