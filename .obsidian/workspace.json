@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5080f25b57278fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚Elite Capture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚The Will to Change. Men, Masculinity, and Love.md",
+                "file": "📚Elite Capture.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚The Will to Change. Men, Masculinity, and Love.md",
+                "file": "📚Elite Capture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚The Will to Change. Men, Masculinity, and Love.md"
+                "file": "📚Elite Capture.md"
               }
             }
           }
@@ -224,10 +236,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "654211cbd5601628",
+  "active": "5080f25b57278fce",
   "lastOpenFiles": [
-    "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "📚The Will to Change. Men, Masculinity, and Love.md",
+    "📚Elite Capture.md",
+    "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "📰Is this really progress.md",
     "📰Detachment in practice.md",
     "📚All About Love.md",
@@ -251,7 +264,6 @@
     "Four Noble Truths.md",
     "The truth of the cause of suffering (Samudaya).md",
     "Attachment.md",
-    "Craving.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
