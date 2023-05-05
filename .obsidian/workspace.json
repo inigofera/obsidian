@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "292814f7fb82aa92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -147,7 +157,15 @@
             }
           },
           {
-            "id": "91dcb14df8727da8",
+            "id": "6426556fad028e0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c66a575790a0cf2e",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -155,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -236,7 +254,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5080f25b57278fce",
+  "active": "292814f7fb82aa92",
   "lastOpenFiles": [
     "📚The Will to Change. Men, Masculinity, and Love.md",
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
