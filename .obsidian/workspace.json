@@ -95,9 +95,11 @@
             "id": "292814f7fb82aa92",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "📚All About Love.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -193,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
+                "file": "📚All About Love.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
+                "file": "📚All About Love.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md"
+                "file": "📚All About Love.md"
               }
             }
           }
@@ -256,12 +258,12 @@
   },
   "active": "292814f7fb82aa92",
   "lastOpenFiles": [
-    "📚The Will to Change. Men, Masculinity, and Love.md",
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
+    "📚All About Love.md",
+    "📚The Will to Change. Men, Masculinity, and Love.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "📰Is this really progress.md",
     "📰Detachment in practice.md",
-    "📚All About Love.md",
     "Microcopy in UX.md",
     "📰The End of the Road to Serfdom.md",
     "Power.md",

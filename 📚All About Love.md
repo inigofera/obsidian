@@ -13,6 +13,9 @@ Men can return only to love by repudiating the will to dominate. Men dominate wi
 	- Lying (even witholding information)
 	- Manipulating
 	- Gaslighting
+
 When we want to maintain [[Power]] over someone, we lose the capacity to love or be loved by them. Trust is the foundation of intimacy. When lies erode trust, genuine connection cannot take place. While men who dominate others can and do experience care, they are placing a barrier between themselves and the experience of love.
+
+When we hear another person's thoughts, beliefs
 
 #book 
