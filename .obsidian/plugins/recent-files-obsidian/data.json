@@ -5,12 +5,16 @@
       "path": "📚All About Love.md"
     },
     {
+      "basename": "📚The Will to Change. Men, Masculinity, and Love",
+      "path": "📚The Will to Change. Men, Masculinity, and Love.md"
+    },
+    {
       "basename": "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else)",
       "path": "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md"
     },
     {
-      "basename": "📚The Will to Change. Men, Masculinity, and Love",
-      "path": "📚The Will to Change. Men, Masculinity, and Love.md"
+      "basename": "bell hooks",
+      "path": "bell hooks.md"
     },
     {
       "basename": "📰How climbing made me acknowledge my toxic relationship with myself",
@@ -195,10 +199,6 @@
     {
       "basename": "Personal Development",
       "path": "Personal Development.md"
-    },
-    {
-      "basename": "Card sorting",
-      "path": "Card sorting.md"
     }
   ],
   "omittedPaths": [],

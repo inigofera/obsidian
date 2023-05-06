@@ -85,18 +85,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "292814f7fb82aa92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "📚All About Love.md",
                 "mode": "source",
                 "source": false
@@ -104,7 +92,21 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
+      },
+      {
+        "id": "8c7202e212241f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "292814f7fb82aa92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,11 +258,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "292814f7fb82aa92",
+  "active": "5080f25b57278fce",
   "lastOpenFiles": [
-    "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
-    "📚All About Love.md",
     "📚The Will to Change. Men, Masculinity, and Love.md",
+    "📚All About Love.md",
+    "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
+    "bell hooks.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "📰Is this really progress.md",
     "📰Detachment in practice.md",
@@ -283,7 +286,6 @@
     "Ignorance.md",
     "Four Noble Truths.md",
     "The truth of the cause of suffering (Samudaya).md",
-    "Attachment.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
