@@ -20,4 +20,6 @@ When we hear another person's thoughts, beliefs, and feelings, it is more diffic
 
 The wounded child inside many males is a boy who, when he first spoke his truths, was silenced by paternal sadism, by a patriarchal world that did not want him to claim his true feelings. The wounded child inside many females is a girl who was taught from early childhood that she must become something other than herself, deny her true feelings, in order to attract and please others. When men and women punish each other for truth telling, we reinforce the notion that lies are better. To be loving we willingly hear the other’s truth, and most important, we affirm the value of truth telling. Lies may make people feel better, but they do not help them to know love.
 
+Genuine love is rarely an emotional space where needs are instantly gratified. To know love we have to invest time and commitment...'dreaming that love will save us, solve all our problems or provide a steady state of bliss or security only keeps us stuck in wishful fantasy, undermining the real power of the love -- which is to transform us.' Many people want love to function like a drug, giving them an immediate and sustained high. They want to do nothing, just passively receive the good feeling.
+
 #book 
