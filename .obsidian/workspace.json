@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "654211cbd5601628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚The Will to Change. Men, Masculinity, and Love.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5080f25b57278fce",
             "type": "leaf",
             "state": {
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "8c7202e212241f98",
@@ -258,7 +246,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5080f25b57278fce",
+  "active": "887b798209e6ba5d",
   "lastOpenFiles": [
     "📚The Will to Change. Men, Masculinity, and Love.md",
     "📚All About Love.md",

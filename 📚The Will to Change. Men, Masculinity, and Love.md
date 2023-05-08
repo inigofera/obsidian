@@ -6,7 +6,7 @@ Patriarchy as a sociocultural phenomenon socializes (traumatizes) men into confo
 
 Men resort to rage/anger because they are homesick of their true, uninhibited self.
 
-Violence is the easiest, cheapest way to assert manhood. When men cannot show their masculinity by leading, impacting those around them, being influential or being successful, they resort to violence to reaffirm themselves in their manhood.
+Violence is the easiest, cheapest way to assert manhood. When men cannot show their masculinity by leading, impacting those around them, being influential or being successful, they resort to violence to reaffirm themselves in their manhood and maintain [[Power]].
 
 Men expect sex to provide them with the emotional fulfillment that only love can give them.
 
