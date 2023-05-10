@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📰Starting a new hobby. What my research shows.md",
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰Starting a new hobby. What my research shows.md",
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📰Starting a new hobby. What my research shows.md",
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📰Starting a new hobby. What my research shows.md"
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md"
               }
             }
           }
@@ -231,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
