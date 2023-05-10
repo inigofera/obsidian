@@ -7,7 +7,7 @@
 - Comparing myself to those around me
 - Ask parents about it?
 - Where did I learn about one-upmanship, toxic competition...?
-My gripe with climbing (which could be a good thing ti)
+My pattern seeking brain tries to find linearity in my progress.
 
 [[📰Starting a new hobby. What my research shows]]
 
