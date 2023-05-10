@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📰Starting a new hobby. What my research shows.md",
+                "file": "Mindfulness.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰Starting a new hobby. What my research shows.md",
+                "file": "Mindfulness.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📰Starting a new hobby. What my research shows.md",
+                "file": "Mindfulness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📰Starting a new hobby. What my research shows.md"
+                "file": "Mindfulness.md"
               }
             }
           }
@@ -231,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +245,9 @@
   },
   "active": "6c8c404c51a6e737",
   "lastOpenFiles": [
-    "📰Is this really progress.md",
     "📰Starting a new hobby. What my research shows.md",
+    "Mindfulness.md",
+    "📰Is this really progress.md",
     "📚All About Love.md",
     "📚The Will to Change. Men, Masculinity, and Love.md",
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
@@ -266,7 +266,6 @@
     "Jakob's Law.md",
     "Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
     "Mindfulness Journal.md",
-    "Mindfulness.md",
     "Renunciation.md",
     "Right View.md",
     "Detachment.md",
