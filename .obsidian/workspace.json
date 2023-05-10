@@ -78,23 +78,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "8c7202e212241f98",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "292814f7fb82aa92",
+            "id": "6c8c404c51a6e737",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📰Starting a new hobby. What my research shows.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚All About Love.md",
+                "file": "📰Starting a new hobby. What my research shows.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -202,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚All About Love.md",
+                "file": "📰Starting a new hobby. What my research shows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚All About Love.md"
+                "file": "📰Starting a new hobby. What my research shows.md"
               }
             }
           }
@@ -246,14 +244,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "887b798209e6ba5d",
+  "active": "6c8c404c51a6e737",
   "lastOpenFiles": [
-    "📚The Will to Change. Men, Masculinity, and Love.md",
+    "📰Is this really progress.md",
+    "📰Starting a new hobby. What my research shows.md",
     "📚All About Love.md",
+    "📚The Will to Change. Men, Masculinity, and Love.md",
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
     "bell hooks.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
-    "📰Is this really progress.md",
     "📰Detachment in practice.md",
     "Microcopy in UX.md",
     "📰The End of the Road to Serfdom.md",
@@ -273,7 +272,6 @@
     "Detachment.md",
     "Ignorance.md",
     "Four Noble Truths.md",
-    "The truth of the cause of suffering (Samudaya).md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
