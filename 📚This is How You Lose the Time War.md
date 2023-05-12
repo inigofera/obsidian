@@ -1,3 +1,2 @@
-
-
+There is beauty in slow-form correspondence. While the ubiquitous instantaneity of modern messaging provides us with instant handshakes and a guarantee of communication, there can also be a haunting appeal to the uncertainty of not having that assurance.
 #book #scifi #romance
