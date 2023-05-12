@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "3d3f2d2e08fa53d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚All About Love.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "887b798209e6ba5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚All About Love.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e06e8ecb9ce98c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚The Will to Change. Men, Masculinity, and Love.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5080f25b57278fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚All About Love.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6c8c404c51a6e737",
             "type": "leaf",
             "state": {
@@ -90,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27c31bbcb1de56c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚This is How You Lose the Time War.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
+                "file": "📚This is How You Lose the Time War.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
+                "file": "📚This is How You Lose the Time War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md"
+                "file": "📚This is How You Lose the Time War.md"
               }
             }
           }
@@ -244,24 +208,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c8c404c51a6e737",
+  "active": "27c31bbcb1de56c7",
   "lastOpenFiles": [
+    "Comics I could make.md",
+    "📚This is How You Lose the Time War.md",
+    "📚All About Love.md",
+    "📚Atomic Habits.md",
+    "📚Half-Earth Socialism.md",
+    "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
+    "📚The Will to Change. Men, Masculinity, and Love.md",
+    "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "📰Starting a new hobby. What my research shows.md",
     "Mindfulness.md",
     "Living in the present.md",
     "📰Is this really progress.md",
-    "📚All About Love.md",
-    "📚The Will to Change. Men, Masculinity, and Love.md",
-    "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
     "bell hooks.md",
-    "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "📰Detachment in practice.md",
     "Microcopy in UX.md",
     "📰The End of the Road to Serfdom.md",
     "Power.md",
     "Love.md",
     "Slow Living is not a Capitalist Trend.md",
-    "Comics I could make.md",
     "Information Architecture Strategy.md",
     "A Taste of UX Writing MOOC.md",
     "Knowledge Management System.md",
@@ -269,9 +236,6 @@
     "Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
     "Mindfulness Journal.md",
     "Renunciation.md",
-    "Right View.md",
-    "Detachment.md",
-    "Ignorance.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
