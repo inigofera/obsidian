@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nuclear Power",
+      "path": "Nuclear Power.md"
+    },
+    {
       "basename": "📚This is How You Lose the Time War",
       "path": "📚This is How You Lose the Time War.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Habit Stacking",
-      "path": "Habit Stacking.md"
     }
   ],
   "omittedPaths": [],

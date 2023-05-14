@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚This is How You Lose the Time War.md",
+                "file": "Nuclear Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚This is How You Lose the Time War.md",
+                "file": "Nuclear Power.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚This is How You Lose the Time War.md",
+                "file": "Nuclear Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚This is How You Lose the Time War.md"
+                "file": "Nuclear Power.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "27c31bbcb1de56c7",
   "lastOpenFiles": [
-    "Comics I could make.md",
     "📚This is How You Lose the Time War.md",
+    "Comics I could make.md",
     "📚All About Love.md",
     "📚Atomic Habits.md",
     "📚Half-Earth Socialism.md",
