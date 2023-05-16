@@ -6,6 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
+        "dimension": 48.38274932614555,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -45,6 +46,21 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "e1bc358dd74ce2af",
+        "type": "tabs",
+        "dimension": 51.61725067385444,
+        "children": [
+          {
+            "id": "c966ae1383ebb3e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,8 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c8c404c51a6e737",
+  "active": "c966ae1383ebb3e6",
   "lastOpenFiles": [
+    "📰How climbing made me acknowledge my toxic relationship with myself.md",
+    "Microcopy in UX.md",
     "Nuclear Power.md",
     "📚This is How You Lose the Time War.md",
     "Comics I could make.md",
@@ -206,14 +220,12 @@
     "📚Half-Earth Socialism.md",
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
     "📚The Will to Change. Men, Masculinity, and Love.md",
-    "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "📰Starting a new hobby. What my research shows.md",
     "Mindfulness.md",
     "Living in the present.md",
     "📰Is this really progress.md",
     "bell hooks.md",
     "📰Detachment in practice.md",
-    "Microcopy in UX.md",
     "📰The End of the Road to Serfdom.md",
     "Power.md",
     "Love.md",
