@@ -59,8 +59,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ee7df8fd57ee91ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,7 @@
             }
           },
           {
-            "id": "c66a575790a0cf2e",
+            "id": "478a814259c228fe",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -208,7 +219,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c966ae1383ebb3e6",
+  "active": "ee7df8fd57ee91ef",
   "lastOpenFiles": [
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "Microcopy in UX.md",
