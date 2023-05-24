@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d720099cece879ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e1bc358dd74ce2af",
@@ -59,19 +71,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "ee7df8fd57ee91ef",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me?.md"
+              }
             }
           }
         ]
@@ -219,9 +224,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee7df8fd57ee91ef",
+  "active": "d720099cece879ed",
   "lastOpenFiles": [
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
+    "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
     "Microcopy in UX.md",
     "Nuclear Power.md",
     "📚This is How You Lose the Time War.md",
@@ -246,7 +252,6 @@
     "Knowledge Management System.md",
     "Jakob's Law.md",
     "Junior UX Portfolio Review - A Job Offer After 3 Months of Learning and Doing UX.md",
-    "Mindfulness Journal.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
