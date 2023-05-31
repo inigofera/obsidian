@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Pequeño Cerdo Capitalista.md",
+                "file": "Need vs. Want.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Pequeño Cerdo Capitalista.md",
+                "file": "Need vs. Want.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Pequeño Cerdo Capitalista.md",
+                "file": "Need vs. Want.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Pequeño Cerdo Capitalista.md"
+                "file": "Need vs. Want.md"
               }
             }
           }
@@ -238,8 +238,9 @@
   },
   "active": "f830056244823cc0",
   "lastOpenFiles": [
-    "📚All About Love.md",
     "📚Pequeño Cerdo Capitalista.md",
+    "Need vs. Want.md",
+    "📚All About Love.md",
     "Personal Finance.md",
     "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
@@ -263,7 +264,6 @@
     "Slow Living is not a Capitalist Trend.md",
     "Information Architecture Strategy.md",
     "A Taste of UX Writing MOOC.md",
-    "Knowledge Management System.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
