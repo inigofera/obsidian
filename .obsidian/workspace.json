@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Finance.md",
+                "file": "Personal Finance for the privileged?.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Finance.md",
+                "file": "Personal Finance for the privileged?.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Finance.md",
+                "file": "Personal Finance for the privileged?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Finance.md"
+                "file": "Personal Finance for the privileged?.md"
               }
             }
           }
@@ -235,8 +235,9 @@
   },
   "active": "695df2140fc78066",
   "lastOpenFiles": [
-    "📚Pequeño Cerdo Capitalista.md",
     "Personal Finance.md",
+    "Personal Finance for the privileged?.md",
+    "📚Pequeño Cerdo Capitalista.md",
     "Microcopy in UX.md",
     "Obsidian.md",
     "Need vs. Want.md",
@@ -260,7 +261,6 @@
     "Power.md",
     "Love.md",
     "Slow Living is not a Capitalist Trend.md",
-    "Information Architecture Strategy.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
