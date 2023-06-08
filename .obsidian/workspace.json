@@ -6,7 +6,6 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 48.38274932614555,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microcopy in UX.md",
+                "file": "Personal Finance.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,13 +67,11 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
-        "id": "e1bc358dd74ce2af",
+        "id": "8394419a26d61427",
         "type": "tabs",
-        "dimension": 51.61725067385444,
         "children": [
           {
             "id": "c966ae1383ebb3e6",
@@ -147,7 +144,7 @@
             }
           },
           {
-            "id": "478a814259c228fe",
+            "id": "2095fa85cdc5d9b9",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -155,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Need vs. Want.md",
+                "file": "Personal Finance.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Need vs. Want.md",
+                "file": "Personal Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Need vs. Want.md"
+                "file": "Personal Finance.md"
               }
             }
           }
@@ -236,18 +233,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f830056244823cc0",
+  "active": "695df2140fc78066",
   "lastOpenFiles": [
     "📚Pequeño Cerdo Capitalista.md",
-    "Need vs. Want.md",
-    "📚All About Love.md",
     "Personal Finance.md",
+    "Microcopy in UX.md",
+    "Obsidian.md",
+    "Need vs. Want.md",
+    "Comics I could make.md",
+    "📚All About Love.md",
     "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
-    "Microcopy in UX.md",
     "Nuclear Power.md",
     "📚This is How You Lose the Time War.md",
-    "Comics I could make.md",
     "📚Atomic Habits.md",
     "📚Half-Earth Socialism.md",
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
@@ -263,7 +261,6 @@
     "Love.md",
     "Slow Living is not a Capitalist Trend.md",
     "Information Architecture Strategy.md",
-    "A Taste of UX Writing MOOC.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
