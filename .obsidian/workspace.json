@@ -6,6 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
+        "dimension": 55.59299191374662,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -72,6 +73,7 @@
       {
         "id": "8394419a26d61427",
         "type": "tabs",
+        "dimension": 44.40700808625337,
         "children": [
           {
             "id": "c966ae1383ebb3e6",
@@ -172,6 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal Finance for the privileged?.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,6 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal Finance for the privileged?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal Finance for the privileged?.md"
+              }
             }
           }
         ]
@@ -229,7 +235,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c966ae1383ebb3e6",
+  "active": "695df2140fc78066",
   "lastOpenFiles": [
     "Personal Finance for the privileged?.md",
     "Personal Finance.md",
