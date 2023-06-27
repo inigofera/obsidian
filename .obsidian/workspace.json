@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 55.59299191374663,
+        "dimension": 55.59299191374662,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -157,7 +157,7 @@
             }
           },
           {
-            "id": "ffaaee95ff37fc94",
+            "id": "3237081fdb49ba62",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -246,7 +246,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95b8483aae192d98",
+  "active": "3237081fdb49ba62",
   "lastOpenFiles": [
     "Personal Finance for the privileged?.md",
     "Personal Finance.md",
