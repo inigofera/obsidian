@@ -5,6 +5,14 @@
       "path": "Designing a Technical Hiking Shirt.md"
     },
     {
+      "basename": "📚This is How You Lose the Time War",
+      "path": "📚This is How You Lose the Time War.md"
+    },
+    {
+      "basename": "Slow Living",
+      "path": "Slow Living.md"
+    },
+    {
       "basename": "Slow Living is not a Capitalist Trend",
       "path": "Slow Living is not a Capitalist Trend.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Nuclear Power",
       "path": "Nuclear Power.md"
-    },
-    {
-      "basename": "📚This is How You Lose the Time War",
-      "path": "📚This is How You Lose the Time War.md"
     },
     {
       "basename": "📚Atomic Habits",
@@ -195,10 +199,6 @@
     {
       "basename": "Moderation in the contemporary world",
       "path": "Moderation in the contemporary world.md"
-    },
-    {
-      "basename": "Moderation",
-      "path": "Moderation.md"
     }
   ],
   "omittedPaths": [],
