@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 55.59299191374662,
+        "dimension": 55.592991913746616,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -14,19 +14,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Finance for the privileged?.md",
+                "file": "Slow Living is not a Capitalist Trend.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95b8483aae192d98",
+            "id": "f4d331af936b020f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Designing a Technical Hiking Shirt.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -84,7 +86,7 @@
       {
         "id": "8394419a26d61427",
         "type": "tabs",
-        "dimension": 44.40700808625338,
+        "dimension": 44.407008086253384,
         "children": [
           {
             "id": "c966ae1383ebb3e6",
@@ -157,7 +159,7 @@
             }
           },
           {
-            "id": "3237081fdb49ba62",
+            "id": "c2556167bfba4824",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -185,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Finance for the privileged?.md",
+                "file": "Designing a Technical Hiking Shirt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -202,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Finance for the privileged?.md",
+                "file": "Designing a Technical Hiking Shirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Finance for the privileged?.md"
+                "file": "Designing a Technical Hiking Shirt.md"
               }
             }
           }
@@ -246,17 +248,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3237081fdb49ba62",
+  "active": "f4d331af936b020f",
   "lastOpenFiles": [
+    "Slow Living is not a Capitalist Trend.md",
+    "Designing a Technical Hiking Shirt.md",
+    "Obsidian.md",
+    "Mindfulness.md",
+    "Living in the present.md",
+    "Comics I could make.md",
+    "bell hooks.md",
+    "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
+    "📰The End of the Road to Serfdom.md",
     "Personal Finance for the privileged?.md",
     "Personal Finance.md",
     "📚Pequeño Cerdo Capitalista.md",
     "Microcopy in UX.md",
-    "Obsidian.md",
     "Need vs. Want.md",
-    "Comics I could make.md",
     "📚All About Love.md",
-    "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "Nuclear Power.md",
     "📚This is How You Lose the Time War.md",
@@ -265,15 +273,9 @@
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
     "📚The Will to Change. Men, Masculinity, and Love.md",
     "📰Starting a new hobby. What my research shows.md",
-    "Mindfulness.md",
-    "Living in the present.md",
     "📰Is this really progress.md",
-    "bell hooks.md",
     "📰Detachment in practice.md",
-    "📰The End of the Road to Serfdom.md",
     "Power.md",
-    "Love.md",
-    "Slow Living is not a Capitalist Trend.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",

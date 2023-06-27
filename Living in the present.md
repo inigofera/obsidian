@@ -3,3 +3,5 @@ One of the main reasons why being present is so important is that it allows us t
 Another benefit of living in the present moment is that it can help us to manage our emotions more effectively. When we are present, we are more able to observe our thoughts and feelings without getting caught up in them. This can help us to avoid getting carried away by negative emotions, such as anger, fear, or anxiety, and instead respond to situations with greater clarity and calmness.
 
 Overall, living in the present moment is an important aspect of mindfulness because it helps us to fully engage with our lives, appreciate our experiences, and manage our emotions more effectively.
+
+#Buddhism 

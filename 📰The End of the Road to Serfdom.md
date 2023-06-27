@@ -6,5 +6,7 @@ After the wars, rich countries instituted ambitious social safety networks: univ
 
 Unions became common, and as productivity improved, wages rose. Struggles for gender justice expanded beyond a campaign for votes for wealthy white women and into universal suffrage. Civil rights struggles on racial, gender and sexual orientation lines came to the fore, and formed alliances with one another, and with anti-colonial movements in the global south.
 
+#article 
+
 
 

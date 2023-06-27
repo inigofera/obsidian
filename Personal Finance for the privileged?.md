@@ -8,3 +8,5 @@ My parents have never struggled financially, and, as an extension of this, I hav
 I do no longer depend financially on my parents. I have a 9 to 5 in the tech industry and have relative stability. Aside from this, I also retain my parental safety net. It is not something I would actively rely on, but I know that, if I ever fall on hard times, my parents will have my back until I can become independent again.
 
 Even still, I can't help but be extremely worried about my financial future. As a terminally online doomscroller (much to my dismay and in the midst of reformation, if it serves as consolation), I am constantly reading about macroeconomic shifts that gurus interpret as harbingers of financial doom for everyone (especially younger people).
+
+#PersonalFinance #article 

@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=LtNDyuiL2YE&ab_channel=AliceCappelle
 - Slow Living is anti-capitalist.
 	- It goes against the growth mindset and the short-term orientation of this system.
 	- Makes us need less and produce less.
+
+#Buddhism 
