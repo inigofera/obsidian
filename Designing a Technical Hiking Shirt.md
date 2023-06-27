@@ -36,7 +36,7 @@ Iñigo: *"I love to go hiking in the forest, and often I like to go off the mark
 
 These are the aspects I considered when designing my shirt:
 
-1. **[[Fabric Selection|Hiking]]**: Choose a fabric that is lightweight, breathable, moisture-wicking, and quick-drying. Common options include synthetic materials like polyester or nylon blends, or natural fibers like merino wool. Consider the shirt's insulation properties based on the expected hiking conditions (e.g., warmer or colder climates).
+1. **[[Hiking Shirt Project - Fabric Selection|Fabric Selection]]**: Choose a fabric that is lightweight, breathable, moisture-wicking, and quick-drying. Common options include synthetic materials like polyester or nylon blends, or natural fibers like merino wool. Consider the shirt's insulation properties based on the expected hiking conditions (e.g., warmer or colder climates).
 
 2. **Fit and Comfort**: Aim for a comfortable fit that allows freedom of movement. Consider factors such as sleeve length, torso length, and the ability to layer the shirt with other garments. Incorporate stretch panels or gussets in areas that require extra mobility, such as the shoulders or underarms.
 
