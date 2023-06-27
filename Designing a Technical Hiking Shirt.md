@@ -12,6 +12,13 @@ Iñigo: *"I love to go hiking in the forest, and often I like to go off the mark
 ### MoSCoW Analysis
 
 #### Must
+- be highly breathable (at least on the right spots)
+- be abrasion resistant
+- be able to be long and short sleeved
+
+#### Should
+- be light
+- be flexible
 - 
 
 
