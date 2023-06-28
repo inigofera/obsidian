@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Designing a Technical Hiking Shirt.md",
+                "file": "Dyneema.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designing a Technical Hiking Shirt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Designing a Technical Hiking Shirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,9 +224,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Designing a Technical Hiking Shirt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -248,8 +244,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4d331af936b020f",
+  "active": "c966ae1383ebb3e6",
   "lastOpenFiles": [
+    "Dyneema.md",
     "Hiking Shirt Project - Fabric Selection.md",
     "Designing a Technical Hiking Shirt.md",
     "📚This is How You Lose the Time War.md",
@@ -275,7 +272,6 @@
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
     "📚The Will to Change. Men, Masculinity, and Love.md",
     "📰Starting a new hobby. What my research shows.md",
-    "📰Is this really progress.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
