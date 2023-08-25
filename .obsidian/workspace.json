@@ -74,14 +74,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Need vs. Want.md",
+                "file": "Designing a Technical Hiking Shirt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5400f330834a7612",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dc86437b18f047b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The perfect jeans.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "8394419a26d61427",
@@ -159,7 +179,7 @@
             }
           },
           {
-            "id": "45e0e82620d4c6ff",
+            "id": "840d0b40b017a5f3",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -187,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slow Living is not a Capitalist Trend.md",
+                "file": "The perfect jeans.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slow Living is not a Capitalist Trend.md",
+                "file": "The perfect jeans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slow Living is not a Capitalist Trend.md"
+                "file": "The perfect jeans.md"
               }
             }
           }
@@ -248,14 +268,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45e0e82620d4c6ff",
+  "active": "2dc86437b18f047b",
   "lastOpenFiles": [
+    "The perfect jeans.md",
+    "Designing a Technical Hiking Shirt.md",
+    "Need vs. Want.md",
+    "Slow Living is not a Capitalist Trend.md",
     "Dyneema.md",
     "Hiking Shirt Project - Fabric Selection.md",
-    "Designing a Technical Hiking Shirt.md",
     "📚This is How You Lose the Time War.md",
     "Slow Living.md",
-    "Slow Living is not a Capitalist Trend.md",
     "Obsidian.md",
     "Mindfulness.md",
     "Living in the present.md",
@@ -267,7 +289,6 @@
     "Personal Finance.md",
     "📚Pequeño Cerdo Capitalista.md",
     "Microcopy in UX.md",
-    "Need vs. Want.md",
     "📚All About Love.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "Nuclear Power.md",
@@ -275,7 +296,6 @@
     "📚Half-Earth Socialism.md",
     "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
     "📚The Will to Change. Men, Masculinity, and Love.md",
-    "📰Starting a new hobby. What my research shows.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
