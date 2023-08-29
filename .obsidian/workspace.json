@@ -250,13 +250,21 @@
                 "file": "The perfect jeans.md"
               }
             }
+          },
+          {
+            "id": "43b57075c74c7322",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +276,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc86437b18f047b",
+  "active": "43b57075c74c7322",
   "lastOpenFiles": [
     "The perfect jeans.md",
     "Designing a Technical Hiking Shirt.md",
