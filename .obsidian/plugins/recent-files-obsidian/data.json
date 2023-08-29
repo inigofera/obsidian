@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Trip to Japan",
+      "path": "Trip to Japan.md"
+    },
+    {
       "basename": "The perfect jeans",
       "path": "The perfect jeans.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Four Immeasurables",
       "path": "The Four Immeasurables.md"
-    },
-    {
-      "basename": "Christianity",
-      "path": "Christianity.md"
     }
   ],
   "omittedPaths": [],
