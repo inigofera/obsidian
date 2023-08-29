@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "b1dc5372586c75fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
             }
           },
           {
-            "id": "d5df45bc29b684a7",
+            "id": "7bf0a36babb8b98b",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -173,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1dc5372586c75fa",
+  "active": "19cbdcf6b433aded",
   "lastOpenFiles": [
     "Politics.md",
     "Power.md",
