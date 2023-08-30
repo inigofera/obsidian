@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 32.92910447761194,
+        "dimension": 50.26954177897574,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trip to Japan.md",
+                "file": "Fuji Day.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
       {
         "id": "8394419a26d61427",
         "type": "tabs",
-        "dimension": 67.07089552238806,
+        "dimension": 49.73045822102426,
         "children": [
           {
             "id": "c966ae1383ebb3e6",
@@ -276,11 +276,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 412.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,8 +293,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b36361d5268ffaad",
+  "active": "c966ae1383ebb3e6",
   "lastOpenFiles": [
+    "Fuji Day.md",
     "Trip to Japan.md",
     "The perfect jeans.md",
     "Designing a Technical Hiking Shirt.md",
@@ -319,7 +321,6 @@
     "Nuclear Power.md",
     "📚Atomic Habits.md",
     "📚Half-Earth Socialism.md",
-    "📚Elite Capture. How the Powerful Took Over Identity Politics (And Everything Else).md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
