@@ -60,12 +60,8 @@
             "id": "d720099cece879ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -109,12 +105,12 @@
             }
           },
           {
-            "id": "9e2b542731947f87",
+            "id": "107fba8401bef04c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
+                "file": "P.A.R.A. Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,7 +195,7 @@
             }
           },
           {
-            "id": "840d0b40b017a5f3",
+            "id": "ab3da981264ed4ab",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -207,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
+                "file": "P.A.R.A. Framework.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -244,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
+                "file": "P.A.R.A. Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md"
+                "file": "P.A.R.A. Framework.md"
               }
             }
           },
@@ -297,14 +293,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e2b542731947f87",
+  "active": "107fba8401bef04c",
   "lastOpenFiles": [
+    "The perfect jeans.md",
+    "Getting good taste.md",
+    "Designing a Technical Hiking Shirt.md",
+    "Untitled.md",
     "Personal Finance for the privileged.md",
     "📚This is How You Lose the Time War.md",
     "Fuji Day.md",
     "Trip to Japan.md",
-    "The perfect jeans.md",
-    "Designing a Technical Hiking Shirt.md",
     "Need vs. Want.md",
     "Slow Living is not a Capitalist Trend.md",
     "Dyneema.md",
@@ -323,8 +321,6 @@
     "📚All About Love.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
     "Nuclear Power.md",
-    "📚Atomic Habits.md",
-    "📚Half-Earth Socialism.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
