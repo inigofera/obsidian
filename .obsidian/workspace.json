@@ -6,7 +6,6 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 50.26954177897574,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -90,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The perfect jeans.md",
+                "file": "Getting good taste.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,22 +116,7 @@
             }
           }
         ],
-        "currentTab": 9
-      },
-      {
-        "id": "8394419a26d61427",
-        "type": "tabs",
-        "dimension": 49.73045822102426,
-        "children": [
-          {
-            "id": "c966ae1383ebb3e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -223,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P.A.R.A. Framework.md",
+                "file": "Getting good taste.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -240,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P.A.R.A. Framework.md",
+                "file": "Getting good taste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P.A.R.A. Framework.md"
+                "file": "Getting good taste.md"
               }
             }
           },
@@ -293,11 +277,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "107fba8401bef04c",
+  "active": "2dc86437b18f047b",
   "lastOpenFiles": [
-    "The perfect jeans.md",
-    "Getting good taste.md",
     "Designing a Technical Hiking Shirt.md",
+    "The perfect jeans.md",
+    "P.A.R.A. Framework.md",
+    "Getting good taste.md",
     "Untitled.md",
     "Personal Finance for the privileged.md",
     "📚This is How You Lose the Time War.md",
@@ -320,7 +305,6 @@
     "Microcopy in UX.md",
     "📚All About Love.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
-    "Nuclear Power.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",

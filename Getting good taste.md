@@ -10,6 +10,8 @@
 
 - Most importantly:
 	- How do I (me as a person) relate to all of this? 
-	- How does my taste influence my self? How does who I am influence my taste?
+	- How does my taste influence my self? How does who I am influence my taste
+
+It is not a matter of how things look like. It is a matter of how to look at things.
 
 #fashion
