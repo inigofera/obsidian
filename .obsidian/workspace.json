@@ -6,7 +6,7 @@
       {
         "id": "594a234e29dea5e9",
         "type": "tabs",
-        "dimension": 50.26954177897574,
+        "dimension": 33.42318059299191,
         "children": [
           {
             "id": "695df2140fc78066",
@@ -126,7 +126,7 @@
       {
         "id": "8394419a26d61427",
         "type": "tabs",
-        "dimension": 49.73045822102426,
+        "dimension": 66.57681940700809,
         "children": [
           {
             "id": "c966ae1383ebb3e6",
@@ -227,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰 Socializing vs me time, What is the right balance for me.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -244,7 +243,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📰 Socializing vs me time, What is the right balance for me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,9 +264,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📰 Socializing vs me time, What is the right balance for me.md"
-              }
+              "state": {}
             }
           },
           {
@@ -297,8 +293,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e2b542731947f87",
+  "active": "c966ae1383ebb3e6",
   "lastOpenFiles": [
+    "📰 Socializing vs me time, What is the right balance for me.md",
     "Personal Finance for the privileged.md",
     "📚This is How You Lose the Time War.md",
     "Fuji Day.md",
@@ -315,7 +312,6 @@
     "Living in the present.md",
     "Comics I could make.md",
     "bell hooks.md",
-    "📰 Socializing vs me time, What is the right balance for me.md",
     "📰The End of the Road to Serfdom.md",
     "Personal Finance.md",
     "📚Pequeño Cerdo Capitalista.md",
