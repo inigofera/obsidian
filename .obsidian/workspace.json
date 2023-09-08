@@ -4,11 +4,132 @@
     "type": "split",
     "children": [
       {
-        "id": "a421303549258bb1",
+        "id": "594a234e29dea5e9",
         "type": "tabs",
+        "dimension": 50.26954177897574,
         "children": [
           {
-            "id": "19cbdcf6b433aded",
+            "id": "695df2140fc78066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slow Living is not a Capitalist Trend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4d331af936b020f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dyneema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bca7c83459611b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comics I could make.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c8c404c51a6e737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📰How climbing made me acknowledge my toxic relationship with myself.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d720099cece879ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f830056244823cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing a Technical Hiking Shirt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5400f330834a7612",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dc86437b18f047b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The perfect jeans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b1cf48af46b5055",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e2b542731947f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "8394419a26d61427",
+        "type": "tabs",
+        "dimension": 49.73045822102426,
+        "children": [
+          {
+            "id": "c966ae1383ebb3e6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#KnowledgeManagement",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +191,7 @@
             }
           },
           {
-            "id": "8a39446cf6453ec2",
+            "id": "6426556fad028e0c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +199,19 @@
             }
           },
           {
-            "id": "7bf0a36babb8b98b",
+            "id": "840d0b40b017a5f3",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200
   },
   "right": {
     "id": "66b3eba9d1e0a907",
@@ -105,10 +227,11 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -121,6 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,14 +266,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md"
+              }
+            }
+          },
+          {
+            "id": "43b57075c74c7322",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 198.5
+    "width": 412.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,17 +297,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f11e748ac2dd2507",
+  "active": "9e2b542731947f87",
   "lastOpenFiles": [
-    "Politics.md",
-    "Power.md",
-    "Is this really progress.md",
-    "Presentation.md",
-    "UX Design.md",
-    "Data-Driven Design.md",
-    "Zettelkasten for Academic Writing.md",
-    "Building a Digital Brain.md",
-    "Professional Development.md",
-    "Home Page.md"
+    "Personal Finance for the privileged.md",
+    "📚This is How You Lose the Time War.md",
+    "Fuji Day.md",
+    "Trip to Japan.md",
+    "The perfect jeans.md",
+    "Designing a Technical Hiking Shirt.md",
+    "Need vs. Want.md",
+    "Slow Living is not a Capitalist Trend.md",
+    "Dyneema.md",
+    "Hiking Shirt Project - Fabric Selection.md",
+    "Slow Living.md",
+    "Obsidian.md",
+    "Mindfulness.md",
+    "Living in the present.md",
+    "Comics I could make.md",
+    "bell hooks.md",
+    "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
+    "📰The End of the Road to Serfdom.md",
+    "Personal Finance.md",
+    "📚Pequeño Cerdo Capitalista.md",
+    "Microcopy in UX.md",
+    "📚All About Love.md",
+    "📰How climbing made me acknowledge my toxic relationship with myself.md",
+    "Nuclear Power.md",
+    "📚Atomic Habits.md",
+    "📚Half-Earth Socialism.md",
+    "Users/inigo/Documents/obsidian/_config.yml",
+    "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
+    "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
+    "Users/inigo/Documents/obsidian/Pasted image 20221030173226.png",
+    "Users/inigo/Documents/obsidian/Pasted image 20221030173200.png",
+    "Users/inigo/Documents/obsidian/Pasted image 20221026192120.png",
+    "Users/inigo/Documents/obsidian/Pasted image 20221025165805.png",
+    "Users/inigo/Documents/obsidian",
+    "Users/inigo/Documents",
+    "Users/inigo",
+    "Users",
+    "Pasted image 20230315090120.png"
   ]
 }

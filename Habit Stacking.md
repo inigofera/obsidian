@@ -1,4 +1,4 @@
-From the book [[Atomic Habits]].
+From the book [[📚Atomic Habits]].
 
 Technique that makes you take advantage of existing habits to crate new ones.
 

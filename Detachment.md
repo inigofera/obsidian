@@ -1,0 +1,3 @@
+[[📰Detachment in practice]]
+
+#Buddhism 

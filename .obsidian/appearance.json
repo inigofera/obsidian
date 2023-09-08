@@ -1,5 +1,7 @@
 {
-  "cssTheme": "Obsidianite",
-  "theme": "moonstone",
-  "accentColor": ""
+  "cssTheme": "",
+  "theme": "obsidian",
+  "accentColor": "",
+  "baseFontSize": 16,
+  "interfaceFontFamily": ""
 }
