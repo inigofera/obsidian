@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fuji Day.md",
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,6 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,6 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +266,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📰 Socializing vs. \"me time\" - What is the right balance for me.md"
+              }
             }
           },
           {
@@ -293,8 +297,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c966ae1383ebb3e6",
+  "active": "9e2b542731947f87",
   "lastOpenFiles": [
+    "Personal Finance for the privileged.md",
+    "📚This is How You Lose the Time War.md",
     "Fuji Day.md",
     "Trip to Japan.md",
     "The perfect jeans.md",
@@ -303,16 +309,14 @@
     "Slow Living is not a Capitalist Trend.md",
     "Dyneema.md",
     "Hiking Shirt Project - Fabric Selection.md",
-    "📚This is How You Lose the Time War.md",
     "Slow Living.md",
     "Obsidian.md",
     "Mindfulness.md",
     "Living in the present.md",
     "Comics I could make.md",
     "bell hooks.md",
-    "📰 Socializing vs. \"me time\" - What is the right balance for me?.md",
+    "📰 Socializing vs. \"me time\" - What is the right balance for me.md",
     "📰The End of the Road to Serfdom.md",
-    "Personal Finance for the privileged?.md",
     "Personal Finance.md",
     "📚Pequeño Cerdo Capitalista.md",
     "Microcopy in UX.md",
