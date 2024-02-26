@@ -1,1 +1,3 @@
 Related to [[Mindfulness]].
+
+#Buddhism 
