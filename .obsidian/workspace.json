@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The perfect jeans.md",
+                "file": "The perfect pair of jeans.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,9 +119,77 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f0241101704deda",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "845081c10ca536f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "34910b931e1f5006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The perfect pair of jeans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3796dded0e75b65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comics I could make.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "febfb1136a201057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing a Technical Hiking Shirt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb6446b72fd5c9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 15
       },
       {
         "id": "8394419a26d61427",
@@ -199,7 +267,7 @@
             }
           },
           {
-            "id": "840d0b40b017a5f3",
+            "id": "df9555c54f87526e",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -207,7 +275,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,6 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,6 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +334,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -293,17 +365,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c966ae1383ebb3e6",
+  "active": "bb6446b72fd5c9c3",
   "lastOpenFiles": [
+    "Slow Living is not a Capitalist Trend.md",
+    "conflict-files-obsidian-git.md",
+    "Designing a Technical Hiking Shirt.md",
+    "The perfect pair of jeans.md",
+    "Getting good taste.md",
     "📰 Socializing vs me time, What is the right balance for me.md",
+    "Untitled.md",
     "Personal Finance for the privileged.md",
     "📚This is How You Lose the Time War.md",
     "Fuji Day.md",
     "Trip to Japan.md",
-    "The perfect jeans.md",
-    "Designing a Technical Hiking Shirt.md",
     "Need vs. Want.md",
-    "Slow Living is not a Capitalist Trend.md",
     "Dyneema.md",
     "Hiking Shirt Project - Fabric Selection.md",
     "Slow Living.md",
@@ -318,9 +393,6 @@
     "Microcopy in UX.md",
     "📚All About Love.md",
     "📰How climbing made me acknowledge my toxic relationship with myself.md",
-    "Nuclear Power.md",
-    "📚Atomic Habits.md",
-    "📚Half-Earth Socialism.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",

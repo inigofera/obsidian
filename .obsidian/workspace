@@ -270,11 +270,7 @@
             }
           },
           {
-            "id": "ca057a518612acf5",
             "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
             }
           }
         ],
@@ -337,28 +333,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
                 "file": "conflict-files-obsidian-git.md"
-              }
-            }
-          }
-        ]
-      }
     ],
     "direction": "horizontal",
     "width": 100
   },
   "active": "d83d40be18ec0b9d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Presentation.md",
-    "Is this really progress.md",
-    "UX Design.md",
-    "Data-Driven Design.md",
     "Zettelkasten for Academic Writing.md",
-    "Building a Digital Brain.md",
     "Professional Development.md",
-    "Home Page.md",
-    "Personal Development.md"
+    "Home Page.md"
   ]
 }
