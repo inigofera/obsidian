@@ -170,9 +170,87 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "891cc7b3bf25171e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "dbeaefe8f72a825a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent stew.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5125dff47b3b70c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "b7f69863fd5b5045",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "1baf0664238cef18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Getting good taste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35cc9e12bdca71b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quality of jeans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8efe1c031ad74db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -235,7 +313,7 @@
             }
           },
           {
-            "id": "df9555c54f87526e",
+            "id": "6e64b674ceef5b57",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -263,6 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -279,6 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +380,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -329,8 +411,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "febfb1136a201057",
+  "active": "e8efe1c031ad74db",
   "lastOpenFiles": [
+    "Quality of jeans.md",
+    "conflict-files-obsidian-git.md",
+    "Getting good taste.md",
+    "The perfect pair of jeans.md",
+    "Permanent stew.md",
     "Detachment.md",
     "📰Detachment in practice.md",
     "Comics I could make.md",
@@ -342,10 +429,7 @@
     "Hiking Shirt Project - Fabric Selection.md",
     "bell hooks.md",
     "Designing a Technical Hiking Shirt.md",
-    "conflict-files-obsidian-git.md",
     "Slow Living is not a Capitalist Trend.md",
-    "The perfect pair of jeans.md",
-    "Getting good taste.md",
     "📰 Socializing vs me time, What is the right balance for me.md",
     "Personal Finance for the privileged.md",
     "📚This is How You Lose the Time War.md",
@@ -355,8 +439,6 @@
     "Obsidian.md",
     "Mindfulness.md",
     "Living in the present.md",
-    "📰The End of the Road to Serfdom.md",
-    "Personal Finance.md",
     "Users/inigo/Documents/obsidian/_config.yml",
     "Users/inigo/Documents/obsidian/Pasted image 20230315090120.png",
     "Users/inigo/Documents/obsidian/Pasted image 20221030174918.png",
