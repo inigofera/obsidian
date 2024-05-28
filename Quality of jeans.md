@@ -27,3 +27,6 @@ The other factor with ELS (Extra Long Staple?) is fewer ends of fibers sticking 
 So the advantage of ELS is the ability to spin thinner yarns, stronger yarns and smoother yarns.
 
 There is also a point of diminishing returns as illustrated with the Lego story. You probably won't get a substantially stronger stick by using 2x10 bricks than by using 2x6 bricks once your stick is 5 bricks high by 5 bricks wide...and you may still need to build other shit with the long bricks so why waste em.
+
+
+#fashion 
