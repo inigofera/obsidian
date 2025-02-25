@@ -5,7 +5,7 @@
 Stands for:
 - **Projects**: A series of tasks linked to a goal, with a deadline.
 - **Areas**: Spheres of activity with a standard to be maintained over time.
-- **Resources**: Topic or them of ongoing interest.
+- **Resources**: Topic or theme of ongoing interest.
 - **Archives**: Inactive items from the other 3 categories.
 
 ## Characteristics

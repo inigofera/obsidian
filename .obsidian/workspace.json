@@ -109,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P.A.R.A. Framework.md",
+                "file": "Designing a Technical Hiking Shirt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             }
           },
           {
-            "id": "ab3da981264ed4ab",
+            "id": "d4eac50d4579374d",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting good taste.md",
+                "file": "Designing a Technical Hiking Shirt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting good taste.md",
+                "file": "Designing a Technical Hiking Shirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting good taste.md"
+                "file": "Designing a Technical Hiking Shirt.md"
               }
             }
           },
@@ -277,12 +277,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc86437b18f047b",
+  "active": "107fba8401bef04c",
   "lastOpenFiles": [
-    "Designing a Technical Hiking Shirt.md",
-    "The perfect jeans.md",
+    "Hiking Shirt Project - Fabric Selection.md",
     "P.A.R.A. Framework.md",
     "Getting good taste.md",
+    "Designing a Technical Hiking Shirt.md",
+    "The perfect jeans.md",
     "Untitled.md",
     "Personal Finance for the privileged.md",
     "📚This is How You Lose the Time War.md",
@@ -291,7 +292,6 @@
     "Need vs. Want.md",
     "Slow Living is not a Capitalist Trend.md",
     "Dyneema.md",
-    "Hiking Shirt Project - Fabric Selection.md",
     "Slow Living.md",
     "Obsidian.md",
     "Mindfulness.md",
