@@ -1,0 +1,11 @@
+- [ ] vacuum computer room
+- [ ] do something about the computer room smell
+- [ ] wipe bathroom mirror
+- [ ] wipe kitchen counters
+- [ ] clear kitchen sink
+- [ ] make sure living room table is tidy
+- [ ] put away dry laundry
+- [ ] clean fridge (outside)
+- [ ] statiegeld
+- [ ] glass trash
+- [ ] paper boxes
