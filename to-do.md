@@ -3,11 +3,11 @@
 - [ ] tidy up computer room
 - [ ] wipe bathroom mirror
 - [ ] wipe kitchen counters
-- [ ] clear kitchen sink
+- [x] clear kitchen sink
 - [ ] wipe stove
 - [x] make sure living room table is tidy
 - [x] put away dry laundry
 - [ ] clean fridge (outside)
 - [ ] statiegeld
 - [ ] glass trash
-- [ ] paper boxes
+- [ ] cardboard boxes
