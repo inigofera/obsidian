@@ -1,13 +1,13 @@
-- [ ] vacuum computer room
-- [ ] do something about the computer room smell
+- [x] vacuum computer room
+- [x] do something about the computer room smell
 - [ ] tidy up computer room
-- [ ] wipe bathroom mirror
+- [x] wipe bathroom mirror
 - [ ] wipe kitchen counters
 - [x] clear kitchen sink
 - [ ] wipe stove
 - [x] make sure living room table is tidy
 - [x] put away dry laundry
-- [ ] clean fridge (outside)
+- [x] clean fridge (outside)
 - [ ] statiegeld
 - [ ] glass trash
 - [ ] cardboard boxes
