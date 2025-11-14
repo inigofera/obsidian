@@ -8,6 +8,6 @@
 - [x] make sure living room table is tidy
 - [x] put away dry laundry
 - [x] clean fridge (outside)
-- [ ] statiegeld
+- [x] statiegeld
 - [ ] glass trash
-- [ ] cardboard boxes
+- [x] cardboard boxes
